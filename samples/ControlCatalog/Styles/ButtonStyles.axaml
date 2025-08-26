@@ -1,0 +1,4997 @@
+<Styles xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Style Selector="Button.ButtonSize10">
+    <Setter Property="Width" Value="10"/>
+    <Setter Property="Height" Value="10"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize20">
+    <Setter Property="Width" Value="20"/>
+    <Setter Property="Height" Value="20"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize30">
+    <Setter Property="Width" Value="30"/>
+    <Setter Property="Height" Value="30"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize40">
+    <Setter Property="Width" Value="40"/>
+    <Setter Property="Height" Value="40"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize50">
+    <Setter Property="Width" Value="50"/>
+    <Setter Property="Height" Value="50"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize60">
+    <Setter Property="Width" Value="60"/>
+    <Setter Property="Height" Value="60"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize70">
+    <Setter Property="Width" Value="70"/>
+    <Setter Property="Height" Value="70"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize80">
+    <Setter Property="Width" Value="80"/>
+    <Setter Property="Height" Value="80"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize90">
+    <Setter Property="Width" Value="90"/>
+    <Setter Property="Height" Value="90"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize100">
+    <Setter Property="Width" Value="100"/>
+    <Setter Property="Height" Value="100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize110">
+    <Setter Property="Width" Value="110"/>
+    <Setter Property="Height" Value="110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize120">
+    <Setter Property="Width" Value="120"/>
+    <Setter Property="Height" Value="120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize130">
+    <Setter Property="Width" Value="130"/>
+    <Setter Property="Height" Value="130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize140">
+    <Setter Property="Width" Value="140"/>
+    <Setter Property="Height" Value="140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize150">
+    <Setter Property="Width" Value="150"/>
+    <Setter Property="Height" Value="150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize160">
+    <Setter Property="Width" Value="160"/>
+    <Setter Property="Height" Value="160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize170">
+    <Setter Property="Width" Value="170"/>
+    <Setter Property="Height" Value="170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize180">
+    <Setter Property="Width" Value="180"/>
+    <Setter Property="Height" Value="180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize190">
+    <Setter Property="Width" Value="190"/>
+    <Setter Property="Height" Value="190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize200">
+    <Setter Property="Width" Value="200"/>
+    <Setter Property="Height" Value="200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize210">
+    <Setter Property="Width" Value="210"/>
+    <Setter Property="Height" Value="210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize220">
+    <Setter Property="Width" Value="220"/>
+    <Setter Property="Height" Value="220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize230">
+    <Setter Property="Width" Value="230"/>
+    <Setter Property="Height" Value="230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize240">
+    <Setter Property="Width" Value="240"/>
+    <Setter Property="Height" Value="240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize250">
+    <Setter Property="Width" Value="250"/>
+    <Setter Property="Height" Value="250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize260">
+    <Setter Property="Width" Value="260"/>
+    <Setter Property="Height" Value="260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize270">
+    <Setter Property="Width" Value="270"/>
+    <Setter Property="Height" Value="270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize280">
+    <Setter Property="Width" Value="280"/>
+    <Setter Property="Height" Value="280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize290">
+    <Setter Property="Width" Value="290"/>
+    <Setter Property="Height" Value="290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize300">
+    <Setter Property="Width" Value="300"/>
+    <Setter Property="Height" Value="300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize310">
+    <Setter Property="Width" Value="310"/>
+    <Setter Property="Height" Value="310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize320">
+    <Setter Property="Width" Value="320"/>
+    <Setter Property="Height" Value="320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize330">
+    <Setter Property="Width" Value="330"/>
+    <Setter Property="Height" Value="330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize340">
+    <Setter Property="Width" Value="340"/>
+    <Setter Property="Height" Value="340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize350">
+    <Setter Property="Width" Value="350"/>
+    <Setter Property="Height" Value="350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize360">
+    <Setter Property="Width" Value="360"/>
+    <Setter Property="Height" Value="360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize370">
+    <Setter Property="Width" Value="370"/>
+    <Setter Property="Height" Value="370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize380">
+    <Setter Property="Width" Value="380"/>
+    <Setter Property="Height" Value="380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize390">
+    <Setter Property="Width" Value="390"/>
+    <Setter Property="Height" Value="390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize400">
+    <Setter Property="Width" Value="400"/>
+    <Setter Property="Height" Value="400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize410">
+    <Setter Property="Width" Value="410"/>
+    <Setter Property="Height" Value="410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize420">
+    <Setter Property="Width" Value="420"/>
+    <Setter Property="Height" Value="420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize430">
+    <Setter Property="Width" Value="430"/>
+    <Setter Property="Height" Value="430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize440">
+    <Setter Property="Width" Value="440"/>
+    <Setter Property="Height" Value="440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize450">
+    <Setter Property="Width" Value="450"/>
+    <Setter Property="Height" Value="450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize460">
+    <Setter Property="Width" Value="460"/>
+    <Setter Property="Height" Value="460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize470">
+    <Setter Property="Width" Value="470"/>
+    <Setter Property="Height" Value="470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize480">
+    <Setter Property="Width" Value="480"/>
+    <Setter Property="Height" Value="480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize490">
+    <Setter Property="Width" Value="490"/>
+    <Setter Property="Height" Value="490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize500">
+    <Setter Property="Width" Value="500"/>
+    <Setter Property="Height" Value="500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize510">
+    <Setter Property="Width" Value="510"/>
+    <Setter Property="Height" Value="510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize520">
+    <Setter Property="Width" Value="520"/>
+    <Setter Property="Height" Value="520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize530">
+    <Setter Property="Width" Value="530"/>
+    <Setter Property="Height" Value="530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize540">
+    <Setter Property="Width" Value="540"/>
+    <Setter Property="Height" Value="540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize550">
+    <Setter Property="Width" Value="550"/>
+    <Setter Property="Height" Value="550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize560">
+    <Setter Property="Width" Value="560"/>
+    <Setter Property="Height" Value="560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize570">
+    <Setter Property="Width" Value="570"/>
+    <Setter Property="Height" Value="570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize580">
+    <Setter Property="Width" Value="580"/>
+    <Setter Property="Height" Value="580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize590">
+    <Setter Property="Width" Value="590"/>
+    <Setter Property="Height" Value="590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize600">
+    <Setter Property="Width" Value="600"/>
+    <Setter Property="Height" Value="600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize610">
+    <Setter Property="Width" Value="610"/>
+    <Setter Property="Height" Value="610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize620">
+    <Setter Property="Width" Value="620"/>
+    <Setter Property="Height" Value="620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize630">
+    <Setter Property="Width" Value="630"/>
+    <Setter Property="Height" Value="630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize640">
+    <Setter Property="Width" Value="640"/>
+    <Setter Property="Height" Value="640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize650">
+    <Setter Property="Width" Value="650"/>
+    <Setter Property="Height" Value="650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize660">
+    <Setter Property="Width" Value="660"/>
+    <Setter Property="Height" Value="660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize670">
+    <Setter Property="Width" Value="670"/>
+    <Setter Property="Height" Value="670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize680">
+    <Setter Property="Width" Value="680"/>
+    <Setter Property="Height" Value="680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize690">
+    <Setter Property="Width" Value="690"/>
+    <Setter Property="Height" Value="690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize700">
+    <Setter Property="Width" Value="700"/>
+    <Setter Property="Height" Value="700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize710">
+    <Setter Property="Width" Value="710"/>
+    <Setter Property="Height" Value="710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize720">
+    <Setter Property="Width" Value="720"/>
+    <Setter Property="Height" Value="720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize730">
+    <Setter Property="Width" Value="730"/>
+    <Setter Property="Height" Value="730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize740">
+    <Setter Property="Width" Value="740"/>
+    <Setter Property="Height" Value="740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize750">
+    <Setter Property="Width" Value="750"/>
+    <Setter Property="Height" Value="750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize760">
+    <Setter Property="Width" Value="760"/>
+    <Setter Property="Height" Value="760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize770">
+    <Setter Property="Width" Value="770"/>
+    <Setter Property="Height" Value="770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize780">
+    <Setter Property="Width" Value="780"/>
+    <Setter Property="Height" Value="780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize790">
+    <Setter Property="Width" Value="790"/>
+    <Setter Property="Height" Value="790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize800">
+    <Setter Property="Width" Value="800"/>
+    <Setter Property="Height" Value="800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize810">
+    <Setter Property="Width" Value="810"/>
+    <Setter Property="Height" Value="810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize820">
+    <Setter Property="Width" Value="820"/>
+    <Setter Property="Height" Value="820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize830">
+    <Setter Property="Width" Value="830"/>
+    <Setter Property="Height" Value="830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize840">
+    <Setter Property="Width" Value="840"/>
+    <Setter Property="Height" Value="840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize850">
+    <Setter Property="Width" Value="850"/>
+    <Setter Property="Height" Value="850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize860">
+    <Setter Property="Width" Value="860"/>
+    <Setter Property="Height" Value="860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize870">
+    <Setter Property="Width" Value="870"/>
+    <Setter Property="Height" Value="870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize880">
+    <Setter Property="Width" Value="880"/>
+    <Setter Property="Height" Value="880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize890">
+    <Setter Property="Width" Value="890"/>
+    <Setter Property="Height" Value="890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize900">
+    <Setter Property="Width" Value="900"/>
+    <Setter Property="Height" Value="900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize910">
+    <Setter Property="Width" Value="910"/>
+    <Setter Property="Height" Value="910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize920">
+    <Setter Property="Width" Value="920"/>
+    <Setter Property="Height" Value="920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize930">
+    <Setter Property="Width" Value="930"/>
+    <Setter Property="Height" Value="930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize940">
+    <Setter Property="Width" Value="940"/>
+    <Setter Property="Height" Value="940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize950">
+    <Setter Property="Width" Value="950"/>
+    <Setter Property="Height" Value="950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize960">
+    <Setter Property="Width" Value="960"/>
+    <Setter Property="Height" Value="960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize970">
+    <Setter Property="Width" Value="970"/>
+    <Setter Property="Height" Value="970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize980">
+    <Setter Property="Width" Value="980"/>
+    <Setter Property="Height" Value="980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize990">
+    <Setter Property="Width" Value="990"/>
+    <Setter Property="Height" Value="990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1000">
+    <Setter Property="Width" Value="1000"/>
+    <Setter Property="Height" Value="1000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1010">
+    <Setter Property="Width" Value="1010"/>
+    <Setter Property="Height" Value="1010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1020">
+    <Setter Property="Width" Value="1020"/>
+    <Setter Property="Height" Value="1020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1030">
+    <Setter Property="Width" Value="1030"/>
+    <Setter Property="Height" Value="1030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1040">
+    <Setter Property="Width" Value="1040"/>
+    <Setter Property="Height" Value="1040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1050">
+    <Setter Property="Width" Value="1050"/>
+    <Setter Property="Height" Value="1050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1060">
+    <Setter Property="Width" Value="1060"/>
+    <Setter Property="Height" Value="1060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1070">
+    <Setter Property="Width" Value="1070"/>
+    <Setter Property="Height" Value="1070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1080">
+    <Setter Property="Width" Value="1080"/>
+    <Setter Property="Height" Value="1080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1090">
+    <Setter Property="Width" Value="1090"/>
+    <Setter Property="Height" Value="1090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1100">
+    <Setter Property="Width" Value="1100"/>
+    <Setter Property="Height" Value="1100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1110">
+    <Setter Property="Width" Value="1110"/>
+    <Setter Property="Height" Value="1110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1120">
+    <Setter Property="Width" Value="1120"/>
+    <Setter Property="Height" Value="1120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1130">
+    <Setter Property="Width" Value="1130"/>
+    <Setter Property="Height" Value="1130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1140">
+    <Setter Property="Width" Value="1140"/>
+    <Setter Property="Height" Value="1140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1150">
+    <Setter Property="Width" Value="1150"/>
+    <Setter Property="Height" Value="1150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1160">
+    <Setter Property="Width" Value="1160"/>
+    <Setter Property="Height" Value="1160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1170">
+    <Setter Property="Width" Value="1170"/>
+    <Setter Property="Height" Value="1170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1180">
+    <Setter Property="Width" Value="1180"/>
+    <Setter Property="Height" Value="1180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1190">
+    <Setter Property="Width" Value="1190"/>
+    <Setter Property="Height" Value="1190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1200">
+    <Setter Property="Width" Value="1200"/>
+    <Setter Property="Height" Value="1200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1210">
+    <Setter Property="Width" Value="1210"/>
+    <Setter Property="Height" Value="1210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1220">
+    <Setter Property="Width" Value="1220"/>
+    <Setter Property="Height" Value="1220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1230">
+    <Setter Property="Width" Value="1230"/>
+    <Setter Property="Height" Value="1230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1240">
+    <Setter Property="Width" Value="1240"/>
+    <Setter Property="Height" Value="1240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1250">
+    <Setter Property="Width" Value="1250"/>
+    <Setter Property="Height" Value="1250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1260">
+    <Setter Property="Width" Value="1260"/>
+    <Setter Property="Height" Value="1260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1270">
+    <Setter Property="Width" Value="1270"/>
+    <Setter Property="Height" Value="1270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1280">
+    <Setter Property="Width" Value="1280"/>
+    <Setter Property="Height" Value="1280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1290">
+    <Setter Property="Width" Value="1290"/>
+    <Setter Property="Height" Value="1290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1300">
+    <Setter Property="Width" Value="1300"/>
+    <Setter Property="Height" Value="1300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1310">
+    <Setter Property="Width" Value="1310"/>
+    <Setter Property="Height" Value="1310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1320">
+    <Setter Property="Width" Value="1320"/>
+    <Setter Property="Height" Value="1320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1330">
+    <Setter Property="Width" Value="1330"/>
+    <Setter Property="Height" Value="1330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1340">
+    <Setter Property="Width" Value="1340"/>
+    <Setter Property="Height" Value="1340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1350">
+    <Setter Property="Width" Value="1350"/>
+    <Setter Property="Height" Value="1350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1360">
+    <Setter Property="Width" Value="1360"/>
+    <Setter Property="Height" Value="1360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1370">
+    <Setter Property="Width" Value="1370"/>
+    <Setter Property="Height" Value="1370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1380">
+    <Setter Property="Width" Value="1380"/>
+    <Setter Property="Height" Value="1380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1390">
+    <Setter Property="Width" Value="1390"/>
+    <Setter Property="Height" Value="1390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1400">
+    <Setter Property="Width" Value="1400"/>
+    <Setter Property="Height" Value="1400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1410">
+    <Setter Property="Width" Value="1410"/>
+    <Setter Property="Height" Value="1410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1420">
+    <Setter Property="Width" Value="1420"/>
+    <Setter Property="Height" Value="1420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1430">
+    <Setter Property="Width" Value="1430"/>
+    <Setter Property="Height" Value="1430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1440">
+    <Setter Property="Width" Value="1440"/>
+    <Setter Property="Height" Value="1440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1450">
+    <Setter Property="Width" Value="1450"/>
+    <Setter Property="Height" Value="1450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1460">
+    <Setter Property="Width" Value="1460"/>
+    <Setter Property="Height" Value="1460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1470">
+    <Setter Property="Width" Value="1470"/>
+    <Setter Property="Height" Value="1470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1480">
+    <Setter Property="Width" Value="1480"/>
+    <Setter Property="Height" Value="1480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1490">
+    <Setter Property="Width" Value="1490"/>
+    <Setter Property="Height" Value="1490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1500">
+    <Setter Property="Width" Value="1500"/>
+    <Setter Property="Height" Value="1500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1510">
+    <Setter Property="Width" Value="1510"/>
+    <Setter Property="Height" Value="1510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1520">
+    <Setter Property="Width" Value="1520"/>
+    <Setter Property="Height" Value="1520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1530">
+    <Setter Property="Width" Value="1530"/>
+    <Setter Property="Height" Value="1530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1540">
+    <Setter Property="Width" Value="1540"/>
+    <Setter Property="Height" Value="1540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1550">
+    <Setter Property="Width" Value="1550"/>
+    <Setter Property="Height" Value="1550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1560">
+    <Setter Property="Width" Value="1560"/>
+    <Setter Property="Height" Value="1560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1570">
+    <Setter Property="Width" Value="1570"/>
+    <Setter Property="Height" Value="1570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1580">
+    <Setter Property="Width" Value="1580"/>
+    <Setter Property="Height" Value="1580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1590">
+    <Setter Property="Width" Value="1590"/>
+    <Setter Property="Height" Value="1590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1600">
+    <Setter Property="Width" Value="1600"/>
+    <Setter Property="Height" Value="1600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1610">
+    <Setter Property="Width" Value="1610"/>
+    <Setter Property="Height" Value="1610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1620">
+    <Setter Property="Width" Value="1620"/>
+    <Setter Property="Height" Value="1620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1630">
+    <Setter Property="Width" Value="1630"/>
+    <Setter Property="Height" Value="1630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1640">
+    <Setter Property="Width" Value="1640"/>
+    <Setter Property="Height" Value="1640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1650">
+    <Setter Property="Width" Value="1650"/>
+    <Setter Property="Height" Value="1650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1660">
+    <Setter Property="Width" Value="1660"/>
+    <Setter Property="Height" Value="1660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1670">
+    <Setter Property="Width" Value="1670"/>
+    <Setter Property="Height" Value="1670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1680">
+    <Setter Property="Width" Value="1680"/>
+    <Setter Property="Height" Value="1680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1690">
+    <Setter Property="Width" Value="1690"/>
+    <Setter Property="Height" Value="1690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1700">
+    <Setter Property="Width" Value="1700"/>
+    <Setter Property="Height" Value="1700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1710">
+    <Setter Property="Width" Value="1710"/>
+    <Setter Property="Height" Value="1710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1720">
+    <Setter Property="Width" Value="1720"/>
+    <Setter Property="Height" Value="1720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1730">
+    <Setter Property="Width" Value="1730"/>
+    <Setter Property="Height" Value="1730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1740">
+    <Setter Property="Width" Value="1740"/>
+    <Setter Property="Height" Value="1740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1750">
+    <Setter Property="Width" Value="1750"/>
+    <Setter Property="Height" Value="1750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1760">
+    <Setter Property="Width" Value="1760"/>
+    <Setter Property="Height" Value="1760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1770">
+    <Setter Property="Width" Value="1770"/>
+    <Setter Property="Height" Value="1770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1780">
+    <Setter Property="Width" Value="1780"/>
+    <Setter Property="Height" Value="1780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1790">
+    <Setter Property="Width" Value="1790"/>
+    <Setter Property="Height" Value="1790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1800">
+    <Setter Property="Width" Value="1800"/>
+    <Setter Property="Height" Value="1800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1810">
+    <Setter Property="Width" Value="1810"/>
+    <Setter Property="Height" Value="1810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1820">
+    <Setter Property="Width" Value="1820"/>
+    <Setter Property="Height" Value="1820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1830">
+    <Setter Property="Width" Value="1830"/>
+    <Setter Property="Height" Value="1830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1840">
+    <Setter Property="Width" Value="1840"/>
+    <Setter Property="Height" Value="1840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1850">
+    <Setter Property="Width" Value="1850"/>
+    <Setter Property="Height" Value="1850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1860">
+    <Setter Property="Width" Value="1860"/>
+    <Setter Property="Height" Value="1860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1870">
+    <Setter Property="Width" Value="1870"/>
+    <Setter Property="Height" Value="1870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1880">
+    <Setter Property="Width" Value="1880"/>
+    <Setter Property="Height" Value="1880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1890">
+    <Setter Property="Width" Value="1890"/>
+    <Setter Property="Height" Value="1890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1900">
+    <Setter Property="Width" Value="1900"/>
+    <Setter Property="Height" Value="1900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1910">
+    <Setter Property="Width" Value="1910"/>
+    <Setter Property="Height" Value="1910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1920">
+    <Setter Property="Width" Value="1920"/>
+    <Setter Property="Height" Value="1920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1930">
+    <Setter Property="Width" Value="1930"/>
+    <Setter Property="Height" Value="1930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1940">
+    <Setter Property="Width" Value="1940"/>
+    <Setter Property="Height" Value="1940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1950">
+    <Setter Property="Width" Value="1950"/>
+    <Setter Property="Height" Value="1950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1960">
+    <Setter Property="Width" Value="1960"/>
+    <Setter Property="Height" Value="1960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1970">
+    <Setter Property="Width" Value="1970"/>
+    <Setter Property="Height" Value="1970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1980">
+    <Setter Property="Width" Value="1980"/>
+    <Setter Property="Height" Value="1980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize1990">
+    <Setter Property="Width" Value="1990"/>
+    <Setter Property="Height" Value="1990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2000">
+    <Setter Property="Width" Value="2000"/>
+    <Setter Property="Height" Value="2000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2010">
+    <Setter Property="Width" Value="2010"/>
+    <Setter Property="Height" Value="2010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2020">
+    <Setter Property="Width" Value="2020"/>
+    <Setter Property="Height" Value="2020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2030">
+    <Setter Property="Width" Value="2030"/>
+    <Setter Property="Height" Value="2030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2040">
+    <Setter Property="Width" Value="2040"/>
+    <Setter Property="Height" Value="2040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2050">
+    <Setter Property="Width" Value="2050"/>
+    <Setter Property="Height" Value="2050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2060">
+    <Setter Property="Width" Value="2060"/>
+    <Setter Property="Height" Value="2060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2070">
+    <Setter Property="Width" Value="2070"/>
+    <Setter Property="Height" Value="2070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2080">
+    <Setter Property="Width" Value="2080"/>
+    <Setter Property="Height" Value="2080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2090">
+    <Setter Property="Width" Value="2090"/>
+    <Setter Property="Height" Value="2090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2100">
+    <Setter Property="Width" Value="2100"/>
+    <Setter Property="Height" Value="2100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2110">
+    <Setter Property="Width" Value="2110"/>
+    <Setter Property="Height" Value="2110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2120">
+    <Setter Property="Width" Value="2120"/>
+    <Setter Property="Height" Value="2120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2130">
+    <Setter Property="Width" Value="2130"/>
+    <Setter Property="Height" Value="2130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2140">
+    <Setter Property="Width" Value="2140"/>
+    <Setter Property="Height" Value="2140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2150">
+    <Setter Property="Width" Value="2150"/>
+    <Setter Property="Height" Value="2150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2160">
+    <Setter Property="Width" Value="2160"/>
+    <Setter Property="Height" Value="2160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2170">
+    <Setter Property="Width" Value="2170"/>
+    <Setter Property="Height" Value="2170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2180">
+    <Setter Property="Width" Value="2180"/>
+    <Setter Property="Height" Value="2180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2190">
+    <Setter Property="Width" Value="2190"/>
+    <Setter Property="Height" Value="2190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2200">
+    <Setter Property="Width" Value="2200"/>
+    <Setter Property="Height" Value="2200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2210">
+    <Setter Property="Width" Value="2210"/>
+    <Setter Property="Height" Value="2210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2220">
+    <Setter Property="Width" Value="2220"/>
+    <Setter Property="Height" Value="2220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2230">
+    <Setter Property="Width" Value="2230"/>
+    <Setter Property="Height" Value="2230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2240">
+    <Setter Property="Width" Value="2240"/>
+    <Setter Property="Height" Value="2240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2250">
+    <Setter Property="Width" Value="2250"/>
+    <Setter Property="Height" Value="2250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2260">
+    <Setter Property="Width" Value="2260"/>
+    <Setter Property="Height" Value="2260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2270">
+    <Setter Property="Width" Value="2270"/>
+    <Setter Property="Height" Value="2270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2280">
+    <Setter Property="Width" Value="2280"/>
+    <Setter Property="Height" Value="2280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2290">
+    <Setter Property="Width" Value="2290"/>
+    <Setter Property="Height" Value="2290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2300">
+    <Setter Property="Width" Value="2300"/>
+    <Setter Property="Height" Value="2300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2310">
+    <Setter Property="Width" Value="2310"/>
+    <Setter Property="Height" Value="2310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2320">
+    <Setter Property="Width" Value="2320"/>
+    <Setter Property="Height" Value="2320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2330">
+    <Setter Property="Width" Value="2330"/>
+    <Setter Property="Height" Value="2330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2340">
+    <Setter Property="Width" Value="2340"/>
+    <Setter Property="Height" Value="2340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2350">
+    <Setter Property="Width" Value="2350"/>
+    <Setter Property="Height" Value="2350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2360">
+    <Setter Property="Width" Value="2360"/>
+    <Setter Property="Height" Value="2360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2370">
+    <Setter Property="Width" Value="2370"/>
+    <Setter Property="Height" Value="2370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2380">
+    <Setter Property="Width" Value="2380"/>
+    <Setter Property="Height" Value="2380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2390">
+    <Setter Property="Width" Value="2390"/>
+    <Setter Property="Height" Value="2390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2400">
+    <Setter Property="Width" Value="2400"/>
+    <Setter Property="Height" Value="2400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2410">
+    <Setter Property="Width" Value="2410"/>
+    <Setter Property="Height" Value="2410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2420">
+    <Setter Property="Width" Value="2420"/>
+    <Setter Property="Height" Value="2420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2430">
+    <Setter Property="Width" Value="2430"/>
+    <Setter Property="Height" Value="2430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2440">
+    <Setter Property="Width" Value="2440"/>
+    <Setter Property="Height" Value="2440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2450">
+    <Setter Property="Width" Value="2450"/>
+    <Setter Property="Height" Value="2450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2460">
+    <Setter Property="Width" Value="2460"/>
+    <Setter Property="Height" Value="2460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2470">
+    <Setter Property="Width" Value="2470"/>
+    <Setter Property="Height" Value="2470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2480">
+    <Setter Property="Width" Value="2480"/>
+    <Setter Property="Height" Value="2480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2490">
+    <Setter Property="Width" Value="2490"/>
+    <Setter Property="Height" Value="2490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2500">
+    <Setter Property="Width" Value="2500"/>
+    <Setter Property="Height" Value="2500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2510">
+    <Setter Property="Width" Value="2510"/>
+    <Setter Property="Height" Value="2510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2520">
+    <Setter Property="Width" Value="2520"/>
+    <Setter Property="Height" Value="2520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2530">
+    <Setter Property="Width" Value="2530"/>
+    <Setter Property="Height" Value="2530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2540">
+    <Setter Property="Width" Value="2540"/>
+    <Setter Property="Height" Value="2540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2550">
+    <Setter Property="Width" Value="2550"/>
+    <Setter Property="Height" Value="2550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2560">
+    <Setter Property="Width" Value="2560"/>
+    <Setter Property="Height" Value="2560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2570">
+    <Setter Property="Width" Value="2570"/>
+    <Setter Property="Height" Value="2570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2580">
+    <Setter Property="Width" Value="2580"/>
+    <Setter Property="Height" Value="2580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2590">
+    <Setter Property="Width" Value="2590"/>
+    <Setter Property="Height" Value="2590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2600">
+    <Setter Property="Width" Value="2600"/>
+    <Setter Property="Height" Value="2600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2610">
+    <Setter Property="Width" Value="2610"/>
+    <Setter Property="Height" Value="2610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2620">
+    <Setter Property="Width" Value="2620"/>
+    <Setter Property="Height" Value="2620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2630">
+    <Setter Property="Width" Value="2630"/>
+    <Setter Property="Height" Value="2630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2640">
+    <Setter Property="Width" Value="2640"/>
+    <Setter Property="Height" Value="2640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2650">
+    <Setter Property="Width" Value="2650"/>
+    <Setter Property="Height" Value="2650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2660">
+    <Setter Property="Width" Value="2660"/>
+    <Setter Property="Height" Value="2660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2670">
+    <Setter Property="Width" Value="2670"/>
+    <Setter Property="Height" Value="2670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2680">
+    <Setter Property="Width" Value="2680"/>
+    <Setter Property="Height" Value="2680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2690">
+    <Setter Property="Width" Value="2690"/>
+    <Setter Property="Height" Value="2690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2700">
+    <Setter Property="Width" Value="2700"/>
+    <Setter Property="Height" Value="2700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2710">
+    <Setter Property="Width" Value="2710"/>
+    <Setter Property="Height" Value="2710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2720">
+    <Setter Property="Width" Value="2720"/>
+    <Setter Property="Height" Value="2720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2730">
+    <Setter Property="Width" Value="2730"/>
+    <Setter Property="Height" Value="2730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2740">
+    <Setter Property="Width" Value="2740"/>
+    <Setter Property="Height" Value="2740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2750">
+    <Setter Property="Width" Value="2750"/>
+    <Setter Property="Height" Value="2750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2760">
+    <Setter Property="Width" Value="2760"/>
+    <Setter Property="Height" Value="2760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2770">
+    <Setter Property="Width" Value="2770"/>
+    <Setter Property="Height" Value="2770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2780">
+    <Setter Property="Width" Value="2780"/>
+    <Setter Property="Height" Value="2780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2790">
+    <Setter Property="Width" Value="2790"/>
+    <Setter Property="Height" Value="2790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2800">
+    <Setter Property="Width" Value="2800"/>
+    <Setter Property="Height" Value="2800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2810">
+    <Setter Property="Width" Value="2810"/>
+    <Setter Property="Height" Value="2810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2820">
+    <Setter Property="Width" Value="2820"/>
+    <Setter Property="Height" Value="2820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2830">
+    <Setter Property="Width" Value="2830"/>
+    <Setter Property="Height" Value="2830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2840">
+    <Setter Property="Width" Value="2840"/>
+    <Setter Property="Height" Value="2840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2850">
+    <Setter Property="Width" Value="2850"/>
+    <Setter Property="Height" Value="2850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2860">
+    <Setter Property="Width" Value="2860"/>
+    <Setter Property="Height" Value="2860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2870">
+    <Setter Property="Width" Value="2870"/>
+    <Setter Property="Height" Value="2870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2880">
+    <Setter Property="Width" Value="2880"/>
+    <Setter Property="Height" Value="2880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2890">
+    <Setter Property="Width" Value="2890"/>
+    <Setter Property="Height" Value="2890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2900">
+    <Setter Property="Width" Value="2900"/>
+    <Setter Property="Height" Value="2900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2910">
+    <Setter Property="Width" Value="2910"/>
+    <Setter Property="Height" Value="2910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2920">
+    <Setter Property="Width" Value="2920"/>
+    <Setter Property="Height" Value="2920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2930">
+    <Setter Property="Width" Value="2930"/>
+    <Setter Property="Height" Value="2930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2940">
+    <Setter Property="Width" Value="2940"/>
+    <Setter Property="Height" Value="2940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2950">
+    <Setter Property="Width" Value="2950"/>
+    <Setter Property="Height" Value="2950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2960">
+    <Setter Property="Width" Value="2960"/>
+    <Setter Property="Height" Value="2960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2970">
+    <Setter Property="Width" Value="2970"/>
+    <Setter Property="Height" Value="2970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2980">
+    <Setter Property="Width" Value="2980"/>
+    <Setter Property="Height" Value="2980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize2990">
+    <Setter Property="Width" Value="2990"/>
+    <Setter Property="Height" Value="2990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3000">
+    <Setter Property="Width" Value="3000"/>
+    <Setter Property="Height" Value="3000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3010">
+    <Setter Property="Width" Value="3010"/>
+    <Setter Property="Height" Value="3010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3020">
+    <Setter Property="Width" Value="3020"/>
+    <Setter Property="Height" Value="3020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3030">
+    <Setter Property="Width" Value="3030"/>
+    <Setter Property="Height" Value="3030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3040">
+    <Setter Property="Width" Value="3040"/>
+    <Setter Property="Height" Value="3040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3050">
+    <Setter Property="Width" Value="3050"/>
+    <Setter Property="Height" Value="3050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3060">
+    <Setter Property="Width" Value="3060"/>
+    <Setter Property="Height" Value="3060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3070">
+    <Setter Property="Width" Value="3070"/>
+    <Setter Property="Height" Value="3070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3080">
+    <Setter Property="Width" Value="3080"/>
+    <Setter Property="Height" Value="3080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3090">
+    <Setter Property="Width" Value="3090"/>
+    <Setter Property="Height" Value="3090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3100">
+    <Setter Property="Width" Value="3100"/>
+    <Setter Property="Height" Value="3100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3110">
+    <Setter Property="Width" Value="3110"/>
+    <Setter Property="Height" Value="3110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3120">
+    <Setter Property="Width" Value="3120"/>
+    <Setter Property="Height" Value="3120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3130">
+    <Setter Property="Width" Value="3130"/>
+    <Setter Property="Height" Value="3130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3140">
+    <Setter Property="Width" Value="3140"/>
+    <Setter Property="Height" Value="3140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3150">
+    <Setter Property="Width" Value="3150"/>
+    <Setter Property="Height" Value="3150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3160">
+    <Setter Property="Width" Value="3160"/>
+    <Setter Property="Height" Value="3160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3170">
+    <Setter Property="Width" Value="3170"/>
+    <Setter Property="Height" Value="3170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3180">
+    <Setter Property="Width" Value="3180"/>
+    <Setter Property="Height" Value="3180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3190">
+    <Setter Property="Width" Value="3190"/>
+    <Setter Property="Height" Value="3190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3200">
+    <Setter Property="Width" Value="3200"/>
+    <Setter Property="Height" Value="3200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3210">
+    <Setter Property="Width" Value="3210"/>
+    <Setter Property="Height" Value="3210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3220">
+    <Setter Property="Width" Value="3220"/>
+    <Setter Property="Height" Value="3220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3230">
+    <Setter Property="Width" Value="3230"/>
+    <Setter Property="Height" Value="3230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3240">
+    <Setter Property="Width" Value="3240"/>
+    <Setter Property="Height" Value="3240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3250">
+    <Setter Property="Width" Value="3250"/>
+    <Setter Property="Height" Value="3250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3260">
+    <Setter Property="Width" Value="3260"/>
+    <Setter Property="Height" Value="3260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3270">
+    <Setter Property="Width" Value="3270"/>
+    <Setter Property="Height" Value="3270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3280">
+    <Setter Property="Width" Value="3280"/>
+    <Setter Property="Height" Value="3280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3290">
+    <Setter Property="Width" Value="3290"/>
+    <Setter Property="Height" Value="3290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3300">
+    <Setter Property="Width" Value="3300"/>
+    <Setter Property="Height" Value="3300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3310">
+    <Setter Property="Width" Value="3310"/>
+    <Setter Property="Height" Value="3310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3320">
+    <Setter Property="Width" Value="3320"/>
+    <Setter Property="Height" Value="3320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3330">
+    <Setter Property="Width" Value="3330"/>
+    <Setter Property="Height" Value="3330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3340">
+    <Setter Property="Width" Value="3340"/>
+    <Setter Property="Height" Value="3340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3350">
+    <Setter Property="Width" Value="3350"/>
+    <Setter Property="Height" Value="3350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3360">
+    <Setter Property="Width" Value="3360"/>
+    <Setter Property="Height" Value="3360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3370">
+    <Setter Property="Width" Value="3370"/>
+    <Setter Property="Height" Value="3370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3380">
+    <Setter Property="Width" Value="3380"/>
+    <Setter Property="Height" Value="3380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3390">
+    <Setter Property="Width" Value="3390"/>
+    <Setter Property="Height" Value="3390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3400">
+    <Setter Property="Width" Value="3400"/>
+    <Setter Property="Height" Value="3400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3410">
+    <Setter Property="Width" Value="3410"/>
+    <Setter Property="Height" Value="3410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3420">
+    <Setter Property="Width" Value="3420"/>
+    <Setter Property="Height" Value="3420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3430">
+    <Setter Property="Width" Value="3430"/>
+    <Setter Property="Height" Value="3430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3440">
+    <Setter Property="Width" Value="3440"/>
+    <Setter Property="Height" Value="3440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3450">
+    <Setter Property="Width" Value="3450"/>
+    <Setter Property="Height" Value="3450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3460">
+    <Setter Property="Width" Value="3460"/>
+    <Setter Property="Height" Value="3460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3470">
+    <Setter Property="Width" Value="3470"/>
+    <Setter Property="Height" Value="3470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3480">
+    <Setter Property="Width" Value="3480"/>
+    <Setter Property="Height" Value="3480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3490">
+    <Setter Property="Width" Value="3490"/>
+    <Setter Property="Height" Value="3490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3500">
+    <Setter Property="Width" Value="3500"/>
+    <Setter Property="Height" Value="3500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3510">
+    <Setter Property="Width" Value="3510"/>
+    <Setter Property="Height" Value="3510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3520">
+    <Setter Property="Width" Value="3520"/>
+    <Setter Property="Height" Value="3520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3530">
+    <Setter Property="Width" Value="3530"/>
+    <Setter Property="Height" Value="3530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3540">
+    <Setter Property="Width" Value="3540"/>
+    <Setter Property="Height" Value="3540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3550">
+    <Setter Property="Width" Value="3550"/>
+    <Setter Property="Height" Value="3550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3560">
+    <Setter Property="Width" Value="3560"/>
+    <Setter Property="Height" Value="3560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3570">
+    <Setter Property="Width" Value="3570"/>
+    <Setter Property="Height" Value="3570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3580">
+    <Setter Property="Width" Value="3580"/>
+    <Setter Property="Height" Value="3580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3590">
+    <Setter Property="Width" Value="3590"/>
+    <Setter Property="Height" Value="3590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3600">
+    <Setter Property="Width" Value="3600"/>
+    <Setter Property="Height" Value="3600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3610">
+    <Setter Property="Width" Value="3610"/>
+    <Setter Property="Height" Value="3610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3620">
+    <Setter Property="Width" Value="3620"/>
+    <Setter Property="Height" Value="3620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3630">
+    <Setter Property="Width" Value="3630"/>
+    <Setter Property="Height" Value="3630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3640">
+    <Setter Property="Width" Value="3640"/>
+    <Setter Property="Height" Value="3640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3650">
+    <Setter Property="Width" Value="3650"/>
+    <Setter Property="Height" Value="3650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3660">
+    <Setter Property="Width" Value="3660"/>
+    <Setter Property="Height" Value="3660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3670">
+    <Setter Property="Width" Value="3670"/>
+    <Setter Property="Height" Value="3670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3680">
+    <Setter Property="Width" Value="3680"/>
+    <Setter Property="Height" Value="3680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3690">
+    <Setter Property="Width" Value="3690"/>
+    <Setter Property="Height" Value="3690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3700">
+    <Setter Property="Width" Value="3700"/>
+    <Setter Property="Height" Value="3700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3710">
+    <Setter Property="Width" Value="3710"/>
+    <Setter Property="Height" Value="3710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3720">
+    <Setter Property="Width" Value="3720"/>
+    <Setter Property="Height" Value="3720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3730">
+    <Setter Property="Width" Value="3730"/>
+    <Setter Property="Height" Value="3730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3740">
+    <Setter Property="Width" Value="3740"/>
+    <Setter Property="Height" Value="3740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3750">
+    <Setter Property="Width" Value="3750"/>
+    <Setter Property="Height" Value="3750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3760">
+    <Setter Property="Width" Value="3760"/>
+    <Setter Property="Height" Value="3760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3770">
+    <Setter Property="Width" Value="3770"/>
+    <Setter Property="Height" Value="3770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3780">
+    <Setter Property="Width" Value="3780"/>
+    <Setter Property="Height" Value="3780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3790">
+    <Setter Property="Width" Value="3790"/>
+    <Setter Property="Height" Value="3790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3800">
+    <Setter Property="Width" Value="3800"/>
+    <Setter Property="Height" Value="3800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3810">
+    <Setter Property="Width" Value="3810"/>
+    <Setter Property="Height" Value="3810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3820">
+    <Setter Property="Width" Value="3820"/>
+    <Setter Property="Height" Value="3820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3830">
+    <Setter Property="Width" Value="3830"/>
+    <Setter Property="Height" Value="3830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3840">
+    <Setter Property="Width" Value="3840"/>
+    <Setter Property="Height" Value="3840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3850">
+    <Setter Property="Width" Value="3850"/>
+    <Setter Property="Height" Value="3850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3860">
+    <Setter Property="Width" Value="3860"/>
+    <Setter Property="Height" Value="3860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3870">
+    <Setter Property="Width" Value="3870"/>
+    <Setter Property="Height" Value="3870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3880">
+    <Setter Property="Width" Value="3880"/>
+    <Setter Property="Height" Value="3880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3890">
+    <Setter Property="Width" Value="3890"/>
+    <Setter Property="Height" Value="3890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3900">
+    <Setter Property="Width" Value="3900"/>
+    <Setter Property="Height" Value="3900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3910">
+    <Setter Property="Width" Value="3910"/>
+    <Setter Property="Height" Value="3910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3920">
+    <Setter Property="Width" Value="3920"/>
+    <Setter Property="Height" Value="3920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3930">
+    <Setter Property="Width" Value="3930"/>
+    <Setter Property="Height" Value="3930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3940">
+    <Setter Property="Width" Value="3940"/>
+    <Setter Property="Height" Value="3940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3950">
+    <Setter Property="Width" Value="3950"/>
+    <Setter Property="Height" Value="3950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3960">
+    <Setter Property="Width" Value="3960"/>
+    <Setter Property="Height" Value="3960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3970">
+    <Setter Property="Width" Value="3970"/>
+    <Setter Property="Height" Value="3970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3980">
+    <Setter Property="Width" Value="3980"/>
+    <Setter Property="Height" Value="3980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize3990">
+    <Setter Property="Width" Value="3990"/>
+    <Setter Property="Height" Value="3990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4000">
+    <Setter Property="Width" Value="4000"/>
+    <Setter Property="Height" Value="4000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4010">
+    <Setter Property="Width" Value="4010"/>
+    <Setter Property="Height" Value="4010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4020">
+    <Setter Property="Width" Value="4020"/>
+    <Setter Property="Height" Value="4020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4030">
+    <Setter Property="Width" Value="4030"/>
+    <Setter Property="Height" Value="4030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4040">
+    <Setter Property="Width" Value="4040"/>
+    <Setter Property="Height" Value="4040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4050">
+    <Setter Property="Width" Value="4050"/>
+    <Setter Property="Height" Value="4050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4060">
+    <Setter Property="Width" Value="4060"/>
+    <Setter Property="Height" Value="4060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4070">
+    <Setter Property="Width" Value="4070"/>
+    <Setter Property="Height" Value="4070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4080">
+    <Setter Property="Width" Value="4080"/>
+    <Setter Property="Height" Value="4080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4090">
+    <Setter Property="Width" Value="4090"/>
+    <Setter Property="Height" Value="4090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4100">
+    <Setter Property="Width" Value="4100"/>
+    <Setter Property="Height" Value="4100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4110">
+    <Setter Property="Width" Value="4110"/>
+    <Setter Property="Height" Value="4110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4120">
+    <Setter Property="Width" Value="4120"/>
+    <Setter Property="Height" Value="4120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4130">
+    <Setter Property="Width" Value="4130"/>
+    <Setter Property="Height" Value="4130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4140">
+    <Setter Property="Width" Value="4140"/>
+    <Setter Property="Height" Value="4140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4150">
+    <Setter Property="Width" Value="4150"/>
+    <Setter Property="Height" Value="4150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4160">
+    <Setter Property="Width" Value="4160"/>
+    <Setter Property="Height" Value="4160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4170">
+    <Setter Property="Width" Value="4170"/>
+    <Setter Property="Height" Value="4170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4180">
+    <Setter Property="Width" Value="4180"/>
+    <Setter Property="Height" Value="4180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4190">
+    <Setter Property="Width" Value="4190"/>
+    <Setter Property="Height" Value="4190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4200">
+    <Setter Property="Width" Value="4200"/>
+    <Setter Property="Height" Value="4200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4210">
+    <Setter Property="Width" Value="4210"/>
+    <Setter Property="Height" Value="4210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4220">
+    <Setter Property="Width" Value="4220"/>
+    <Setter Property="Height" Value="4220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4230">
+    <Setter Property="Width" Value="4230"/>
+    <Setter Property="Height" Value="4230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4240">
+    <Setter Property="Width" Value="4240"/>
+    <Setter Property="Height" Value="4240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4250">
+    <Setter Property="Width" Value="4250"/>
+    <Setter Property="Height" Value="4250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4260">
+    <Setter Property="Width" Value="4260"/>
+    <Setter Property="Height" Value="4260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4270">
+    <Setter Property="Width" Value="4270"/>
+    <Setter Property="Height" Value="4270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4280">
+    <Setter Property="Width" Value="4280"/>
+    <Setter Property="Height" Value="4280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4290">
+    <Setter Property="Width" Value="4290"/>
+    <Setter Property="Height" Value="4290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4300">
+    <Setter Property="Width" Value="4300"/>
+    <Setter Property="Height" Value="4300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4310">
+    <Setter Property="Width" Value="4310"/>
+    <Setter Property="Height" Value="4310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4320">
+    <Setter Property="Width" Value="4320"/>
+    <Setter Property="Height" Value="4320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4330">
+    <Setter Property="Width" Value="4330"/>
+    <Setter Property="Height" Value="4330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4340">
+    <Setter Property="Width" Value="4340"/>
+    <Setter Property="Height" Value="4340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4350">
+    <Setter Property="Width" Value="4350"/>
+    <Setter Property="Height" Value="4350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4360">
+    <Setter Property="Width" Value="4360"/>
+    <Setter Property="Height" Value="4360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4370">
+    <Setter Property="Width" Value="4370"/>
+    <Setter Property="Height" Value="4370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4380">
+    <Setter Property="Width" Value="4380"/>
+    <Setter Property="Height" Value="4380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4390">
+    <Setter Property="Width" Value="4390"/>
+    <Setter Property="Height" Value="4390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4400">
+    <Setter Property="Width" Value="4400"/>
+    <Setter Property="Height" Value="4400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4410">
+    <Setter Property="Width" Value="4410"/>
+    <Setter Property="Height" Value="4410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4420">
+    <Setter Property="Width" Value="4420"/>
+    <Setter Property="Height" Value="4420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4430">
+    <Setter Property="Width" Value="4430"/>
+    <Setter Property="Height" Value="4430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4440">
+    <Setter Property="Width" Value="4440"/>
+    <Setter Property="Height" Value="4440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4450">
+    <Setter Property="Width" Value="4450"/>
+    <Setter Property="Height" Value="4450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4460">
+    <Setter Property="Width" Value="4460"/>
+    <Setter Property="Height" Value="4460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4470">
+    <Setter Property="Width" Value="4470"/>
+    <Setter Property="Height" Value="4470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4480">
+    <Setter Property="Width" Value="4480"/>
+    <Setter Property="Height" Value="4480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4490">
+    <Setter Property="Width" Value="4490"/>
+    <Setter Property="Height" Value="4490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4500">
+    <Setter Property="Width" Value="4500"/>
+    <Setter Property="Height" Value="4500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4510">
+    <Setter Property="Width" Value="4510"/>
+    <Setter Property="Height" Value="4510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4520">
+    <Setter Property="Width" Value="4520"/>
+    <Setter Property="Height" Value="4520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4530">
+    <Setter Property="Width" Value="4530"/>
+    <Setter Property="Height" Value="4530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4540">
+    <Setter Property="Width" Value="4540"/>
+    <Setter Property="Height" Value="4540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4550">
+    <Setter Property="Width" Value="4550"/>
+    <Setter Property="Height" Value="4550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4560">
+    <Setter Property="Width" Value="4560"/>
+    <Setter Property="Height" Value="4560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4570">
+    <Setter Property="Width" Value="4570"/>
+    <Setter Property="Height" Value="4570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4580">
+    <Setter Property="Width" Value="4580"/>
+    <Setter Property="Height" Value="4580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4590">
+    <Setter Property="Width" Value="4590"/>
+    <Setter Property="Height" Value="4590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4600">
+    <Setter Property="Width" Value="4600"/>
+    <Setter Property="Height" Value="4600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4610">
+    <Setter Property="Width" Value="4610"/>
+    <Setter Property="Height" Value="4610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4620">
+    <Setter Property="Width" Value="4620"/>
+    <Setter Property="Height" Value="4620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4630">
+    <Setter Property="Width" Value="4630"/>
+    <Setter Property="Height" Value="4630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4640">
+    <Setter Property="Width" Value="4640"/>
+    <Setter Property="Height" Value="4640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4650">
+    <Setter Property="Width" Value="4650"/>
+    <Setter Property="Height" Value="4650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4660">
+    <Setter Property="Width" Value="4660"/>
+    <Setter Property="Height" Value="4660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4670">
+    <Setter Property="Width" Value="4670"/>
+    <Setter Property="Height" Value="4670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4680">
+    <Setter Property="Width" Value="4680"/>
+    <Setter Property="Height" Value="4680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4690">
+    <Setter Property="Width" Value="4690"/>
+    <Setter Property="Height" Value="4690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4700">
+    <Setter Property="Width" Value="4700"/>
+    <Setter Property="Height" Value="4700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4710">
+    <Setter Property="Width" Value="4710"/>
+    <Setter Property="Height" Value="4710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4720">
+    <Setter Property="Width" Value="4720"/>
+    <Setter Property="Height" Value="4720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4730">
+    <Setter Property="Width" Value="4730"/>
+    <Setter Property="Height" Value="4730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4740">
+    <Setter Property="Width" Value="4740"/>
+    <Setter Property="Height" Value="4740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4750">
+    <Setter Property="Width" Value="4750"/>
+    <Setter Property="Height" Value="4750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4760">
+    <Setter Property="Width" Value="4760"/>
+    <Setter Property="Height" Value="4760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4770">
+    <Setter Property="Width" Value="4770"/>
+    <Setter Property="Height" Value="4770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4780">
+    <Setter Property="Width" Value="4780"/>
+    <Setter Property="Height" Value="4780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4790">
+    <Setter Property="Width" Value="4790"/>
+    <Setter Property="Height" Value="4790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4800">
+    <Setter Property="Width" Value="4800"/>
+    <Setter Property="Height" Value="4800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4810">
+    <Setter Property="Width" Value="4810"/>
+    <Setter Property="Height" Value="4810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4820">
+    <Setter Property="Width" Value="4820"/>
+    <Setter Property="Height" Value="4820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4830">
+    <Setter Property="Width" Value="4830"/>
+    <Setter Property="Height" Value="4830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4840">
+    <Setter Property="Width" Value="4840"/>
+    <Setter Property="Height" Value="4840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4850">
+    <Setter Property="Width" Value="4850"/>
+    <Setter Property="Height" Value="4850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4860">
+    <Setter Property="Width" Value="4860"/>
+    <Setter Property="Height" Value="4860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4870">
+    <Setter Property="Width" Value="4870"/>
+    <Setter Property="Height" Value="4870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4880">
+    <Setter Property="Width" Value="4880"/>
+    <Setter Property="Height" Value="4880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4890">
+    <Setter Property="Width" Value="4890"/>
+    <Setter Property="Height" Value="4890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4900">
+    <Setter Property="Width" Value="4900"/>
+    <Setter Property="Height" Value="4900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4910">
+    <Setter Property="Width" Value="4910"/>
+    <Setter Property="Height" Value="4910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4920">
+    <Setter Property="Width" Value="4920"/>
+    <Setter Property="Height" Value="4920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4930">
+    <Setter Property="Width" Value="4930"/>
+    <Setter Property="Height" Value="4930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4940">
+    <Setter Property="Width" Value="4940"/>
+    <Setter Property="Height" Value="4940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4950">
+    <Setter Property="Width" Value="4950"/>
+    <Setter Property="Height" Value="4950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4960">
+    <Setter Property="Width" Value="4960"/>
+    <Setter Property="Height" Value="4960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4970">
+    <Setter Property="Width" Value="4970"/>
+    <Setter Property="Height" Value="4970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4980">
+    <Setter Property="Width" Value="4980"/>
+    <Setter Property="Height" Value="4980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize4990">
+    <Setter Property="Width" Value="4990"/>
+    <Setter Property="Height" Value="4990"/>
+  </Style>
+
+  <!--<Style Selector="Button.ButtonSize5000">
+    <Setter Property="Width" Value="5000"/>
+    <Setter Property="Height" Value="5000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5010">
+    <Setter Property="Width" Value="5010"/>
+    <Setter Property="Height" Value="5010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5020">
+    <Setter Property="Width" Value="5020"/>
+    <Setter Property="Height" Value="5020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5030">
+    <Setter Property="Width" Value="5030"/>
+    <Setter Property="Height" Value="5030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5040">
+    <Setter Property="Width" Value="5040"/>
+    <Setter Property="Height" Value="5040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5050">
+    <Setter Property="Width" Value="5050"/>
+    <Setter Property="Height" Value="5050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5060">
+    <Setter Property="Width" Value="5060"/>
+    <Setter Property="Height" Value="5060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5070">
+    <Setter Property="Width" Value="5070"/>
+    <Setter Property="Height" Value="5070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5080">
+    <Setter Property="Width" Value="5080"/>
+    <Setter Property="Height" Value="5080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5090">
+    <Setter Property="Width" Value="5090"/>
+    <Setter Property="Height" Value="5090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5100">
+    <Setter Property="Width" Value="5100"/>
+    <Setter Property="Height" Value="5100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5110">
+    <Setter Property="Width" Value="5110"/>
+    <Setter Property="Height" Value="5110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5120">
+    <Setter Property="Width" Value="5120"/>
+    <Setter Property="Height" Value="5120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5130">
+    <Setter Property="Width" Value="5130"/>
+    <Setter Property="Height" Value="5130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5140">
+    <Setter Property="Width" Value="5140"/>
+    <Setter Property="Height" Value="5140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5150">
+    <Setter Property="Width" Value="5150"/>
+    <Setter Property="Height" Value="5150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5160">
+    <Setter Property="Width" Value="5160"/>
+    <Setter Property="Height" Value="5160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5170">
+    <Setter Property="Width" Value="5170"/>
+    <Setter Property="Height" Value="5170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5180">
+    <Setter Property="Width" Value="5180"/>
+    <Setter Property="Height" Value="5180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5190">
+    <Setter Property="Width" Value="5190"/>
+    <Setter Property="Height" Value="5190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5200">
+    <Setter Property="Width" Value="5200"/>
+    <Setter Property="Height" Value="5200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5210">
+    <Setter Property="Width" Value="5210"/>
+    <Setter Property="Height" Value="5210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5220">
+    <Setter Property="Width" Value="5220"/>
+    <Setter Property="Height" Value="5220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5230">
+    <Setter Property="Width" Value="5230"/>
+    <Setter Property="Height" Value="5230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5240">
+    <Setter Property="Width" Value="5240"/>
+    <Setter Property="Height" Value="5240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5250">
+    <Setter Property="Width" Value="5250"/>
+    <Setter Property="Height" Value="5250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5260">
+    <Setter Property="Width" Value="5260"/>
+    <Setter Property="Height" Value="5260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5270">
+    <Setter Property="Width" Value="5270"/>
+    <Setter Property="Height" Value="5270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5280">
+    <Setter Property="Width" Value="5280"/>
+    <Setter Property="Height" Value="5280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5290">
+    <Setter Property="Width" Value="5290"/>
+    <Setter Property="Height" Value="5290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5300">
+    <Setter Property="Width" Value="5300"/>
+    <Setter Property="Height" Value="5300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5310">
+    <Setter Property="Width" Value="5310"/>
+    <Setter Property="Height" Value="5310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5320">
+    <Setter Property="Width" Value="5320"/>
+    <Setter Property="Height" Value="5320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5330">
+    <Setter Property="Width" Value="5330"/>
+    <Setter Property="Height" Value="5330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5340">
+    <Setter Property="Width" Value="5340"/>
+    <Setter Property="Height" Value="5340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5350">
+    <Setter Property="Width" Value="5350"/>
+    <Setter Property="Height" Value="5350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5360">
+    <Setter Property="Width" Value="5360"/>
+    <Setter Property="Height" Value="5360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5370">
+    <Setter Property="Width" Value="5370"/>
+    <Setter Property="Height" Value="5370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5380">
+    <Setter Property="Width" Value="5380"/>
+    <Setter Property="Height" Value="5380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5390">
+    <Setter Property="Width" Value="5390"/>
+    <Setter Property="Height" Value="5390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5400">
+    <Setter Property="Width" Value="5400"/>
+    <Setter Property="Height" Value="5400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5410">
+    <Setter Property="Width" Value="5410"/>
+    <Setter Property="Height" Value="5410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5420">
+    <Setter Property="Width" Value="5420"/>
+    <Setter Property="Height" Value="5420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5430">
+    <Setter Property="Width" Value="5430"/>
+    <Setter Property="Height" Value="5430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5440">
+    <Setter Property="Width" Value="5440"/>
+    <Setter Property="Height" Value="5440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5450">
+    <Setter Property="Width" Value="5450"/>
+    <Setter Property="Height" Value="5450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5460">
+    <Setter Property="Width" Value="5460"/>
+    <Setter Property="Height" Value="5460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5470">
+    <Setter Property="Width" Value="5470"/>
+    <Setter Property="Height" Value="5470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5480">
+    <Setter Property="Width" Value="5480"/>
+    <Setter Property="Height" Value="5480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5490">
+    <Setter Property="Width" Value="5490"/>
+    <Setter Property="Height" Value="5490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5500">
+    <Setter Property="Width" Value="5500"/>
+    <Setter Property="Height" Value="5500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5510">
+    <Setter Property="Width" Value="5510"/>
+    <Setter Property="Height" Value="5510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5520">
+    <Setter Property="Width" Value="5520"/>
+    <Setter Property="Height" Value="5520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5530">
+    <Setter Property="Width" Value="5530"/>
+    <Setter Property="Height" Value="5530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5540">
+    <Setter Property="Width" Value="5540"/>
+    <Setter Property="Height" Value="5540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5550">
+    <Setter Property="Width" Value="5550"/>
+    <Setter Property="Height" Value="5550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5560">
+    <Setter Property="Width" Value="5560"/>
+    <Setter Property="Height" Value="5560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5570">
+    <Setter Property="Width" Value="5570"/>
+    <Setter Property="Height" Value="5570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5580">
+    <Setter Property="Width" Value="5580"/>
+    <Setter Property="Height" Value="5580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5590">
+    <Setter Property="Width" Value="5590"/>
+    <Setter Property="Height" Value="5590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5600">
+    <Setter Property="Width" Value="5600"/>
+    <Setter Property="Height" Value="5600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5610">
+    <Setter Property="Width" Value="5610"/>
+    <Setter Property="Height" Value="5610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5620">
+    <Setter Property="Width" Value="5620"/>
+    <Setter Property="Height" Value="5620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5630">
+    <Setter Property="Width" Value="5630"/>
+    <Setter Property="Height" Value="5630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5640">
+    <Setter Property="Width" Value="5640"/>
+    <Setter Property="Height" Value="5640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5650">
+    <Setter Property="Width" Value="5650"/>
+    <Setter Property="Height" Value="5650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5660">
+    <Setter Property="Width" Value="5660"/>
+    <Setter Property="Height" Value="5660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5670">
+    <Setter Property="Width" Value="5670"/>
+    <Setter Property="Height" Value="5670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5680">
+    <Setter Property="Width" Value="5680"/>
+    <Setter Property="Height" Value="5680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5690">
+    <Setter Property="Width" Value="5690"/>
+    <Setter Property="Height" Value="5690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5700">
+    <Setter Property="Width" Value="5700"/>
+    <Setter Property="Height" Value="5700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5710">
+    <Setter Property="Width" Value="5710"/>
+    <Setter Property="Height" Value="5710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5720">
+    <Setter Property="Width" Value="5720"/>
+    <Setter Property="Height" Value="5720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5730">
+    <Setter Property="Width" Value="5730"/>
+    <Setter Property="Height" Value="5730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5740">
+    <Setter Property="Width" Value="5740"/>
+    <Setter Property="Height" Value="5740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5750">
+    <Setter Property="Width" Value="5750"/>
+    <Setter Property="Height" Value="5750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5760">
+    <Setter Property="Width" Value="5760"/>
+    <Setter Property="Height" Value="5760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5770">
+    <Setter Property="Width" Value="5770"/>
+    <Setter Property="Height" Value="5770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5780">
+    <Setter Property="Width" Value="5780"/>
+    <Setter Property="Height" Value="5780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5790">
+    <Setter Property="Width" Value="5790"/>
+    <Setter Property="Height" Value="5790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5800">
+    <Setter Property="Width" Value="5800"/>
+    <Setter Property="Height" Value="5800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5810">
+    <Setter Property="Width" Value="5810"/>
+    <Setter Property="Height" Value="5810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5820">
+    <Setter Property="Width" Value="5820"/>
+    <Setter Property="Height" Value="5820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5830">
+    <Setter Property="Width" Value="5830"/>
+    <Setter Property="Height" Value="5830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5840">
+    <Setter Property="Width" Value="5840"/>
+    <Setter Property="Height" Value="5840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5850">
+    <Setter Property="Width" Value="5850"/>
+    <Setter Property="Height" Value="5850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5860">
+    <Setter Property="Width" Value="5860"/>
+    <Setter Property="Height" Value="5860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5870">
+    <Setter Property="Width" Value="5870"/>
+    <Setter Property="Height" Value="5870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5880">
+    <Setter Property="Width" Value="5880"/>
+    <Setter Property="Height" Value="5880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5890">
+    <Setter Property="Width" Value="5890"/>
+    <Setter Property="Height" Value="5890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5900">
+    <Setter Property="Width" Value="5900"/>
+    <Setter Property="Height" Value="5900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5910">
+    <Setter Property="Width" Value="5910"/>
+    <Setter Property="Height" Value="5910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5920">
+    <Setter Property="Width" Value="5920"/>
+    <Setter Property="Height" Value="5920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5930">
+    <Setter Property="Width" Value="5930"/>
+    <Setter Property="Height" Value="5930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5940">
+    <Setter Property="Width" Value="5940"/>
+    <Setter Property="Height" Value="5940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5950">
+    <Setter Property="Width" Value="5950"/>
+    <Setter Property="Height" Value="5950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5960">
+    <Setter Property="Width" Value="5960"/>
+    <Setter Property="Height" Value="5960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5970">
+    <Setter Property="Width" Value="5970"/>
+    <Setter Property="Height" Value="5970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5980">
+    <Setter Property="Width" Value="5980"/>
+    <Setter Property="Height" Value="5980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize5990">
+    <Setter Property="Width" Value="5990"/>
+    <Setter Property="Height" Value="5990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6000">
+    <Setter Property="Width" Value="6000"/>
+    <Setter Property="Height" Value="6000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6010">
+    <Setter Property="Width" Value="6010"/>
+    <Setter Property="Height" Value="6010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6020">
+    <Setter Property="Width" Value="6020"/>
+    <Setter Property="Height" Value="6020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6030">
+    <Setter Property="Width" Value="6030"/>
+    <Setter Property="Height" Value="6030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6040">
+    <Setter Property="Width" Value="6040"/>
+    <Setter Property="Height" Value="6040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6050">
+    <Setter Property="Width" Value="6050"/>
+    <Setter Property="Height" Value="6050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6060">
+    <Setter Property="Width" Value="6060"/>
+    <Setter Property="Height" Value="6060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6070">
+    <Setter Property="Width" Value="6070"/>
+    <Setter Property="Height" Value="6070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6080">
+    <Setter Property="Width" Value="6080"/>
+    <Setter Property="Height" Value="6080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6090">
+    <Setter Property="Width" Value="6090"/>
+    <Setter Property="Height" Value="6090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6100">
+    <Setter Property="Width" Value="6100"/>
+    <Setter Property="Height" Value="6100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6110">
+    <Setter Property="Width" Value="6110"/>
+    <Setter Property="Height" Value="6110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6120">
+    <Setter Property="Width" Value="6120"/>
+    <Setter Property="Height" Value="6120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6130">
+    <Setter Property="Width" Value="6130"/>
+    <Setter Property="Height" Value="6130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6140">
+    <Setter Property="Width" Value="6140"/>
+    <Setter Property="Height" Value="6140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6150">
+    <Setter Property="Width" Value="6150"/>
+    <Setter Property="Height" Value="6150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6160">
+    <Setter Property="Width" Value="6160"/>
+    <Setter Property="Height" Value="6160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6170">
+    <Setter Property="Width" Value="6170"/>
+    <Setter Property="Height" Value="6170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6180">
+    <Setter Property="Width" Value="6180"/>
+    <Setter Property="Height" Value="6180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6190">
+    <Setter Property="Width" Value="6190"/>
+    <Setter Property="Height" Value="6190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6200">
+    <Setter Property="Width" Value="6200"/>
+    <Setter Property="Height" Value="6200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6210">
+    <Setter Property="Width" Value="6210"/>
+    <Setter Property="Height" Value="6210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6220">
+    <Setter Property="Width" Value="6220"/>
+    <Setter Property="Height" Value="6220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6230">
+    <Setter Property="Width" Value="6230"/>
+    <Setter Property="Height" Value="6230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6240">
+    <Setter Property="Width" Value="6240"/>
+    <Setter Property="Height" Value="6240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6250">
+    <Setter Property="Width" Value="6250"/>
+    <Setter Property="Height" Value="6250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6260">
+    <Setter Property="Width" Value="6260"/>
+    <Setter Property="Height" Value="6260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6270">
+    <Setter Property="Width" Value="6270"/>
+    <Setter Property="Height" Value="6270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6280">
+    <Setter Property="Width" Value="6280"/>
+    <Setter Property="Height" Value="6280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6290">
+    <Setter Property="Width" Value="6290"/>
+    <Setter Property="Height" Value="6290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6300">
+    <Setter Property="Width" Value="6300"/>
+    <Setter Property="Height" Value="6300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6310">
+    <Setter Property="Width" Value="6310"/>
+    <Setter Property="Height" Value="6310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6320">
+    <Setter Property="Width" Value="6320"/>
+    <Setter Property="Height" Value="6320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6330">
+    <Setter Property="Width" Value="6330"/>
+    <Setter Property="Height" Value="6330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6340">
+    <Setter Property="Width" Value="6340"/>
+    <Setter Property="Height" Value="6340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6350">
+    <Setter Property="Width" Value="6350"/>
+    <Setter Property="Height" Value="6350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6360">
+    <Setter Property="Width" Value="6360"/>
+    <Setter Property="Height" Value="6360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6370">
+    <Setter Property="Width" Value="6370"/>
+    <Setter Property="Height" Value="6370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6380">
+    <Setter Property="Width" Value="6380"/>
+    <Setter Property="Height" Value="6380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6390">
+    <Setter Property="Width" Value="6390"/>
+    <Setter Property="Height" Value="6390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6400">
+    <Setter Property="Width" Value="6400"/>
+    <Setter Property="Height" Value="6400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6410">
+    <Setter Property="Width" Value="6410"/>
+    <Setter Property="Height" Value="6410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6420">
+    <Setter Property="Width" Value="6420"/>
+    <Setter Property="Height" Value="6420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6430">
+    <Setter Property="Width" Value="6430"/>
+    <Setter Property="Height" Value="6430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6440">
+    <Setter Property="Width" Value="6440"/>
+    <Setter Property="Height" Value="6440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6450">
+    <Setter Property="Width" Value="6450"/>
+    <Setter Property="Height" Value="6450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6460">
+    <Setter Property="Width" Value="6460"/>
+    <Setter Property="Height" Value="6460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6470">
+    <Setter Property="Width" Value="6470"/>
+    <Setter Property="Height" Value="6470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6480">
+    <Setter Property="Width" Value="6480"/>
+    <Setter Property="Height" Value="6480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6490">
+    <Setter Property="Width" Value="6490"/>
+    <Setter Property="Height" Value="6490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6500">
+    <Setter Property="Width" Value="6500"/>
+    <Setter Property="Height" Value="6500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6510">
+    <Setter Property="Width" Value="6510"/>
+    <Setter Property="Height" Value="6510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6520">
+    <Setter Property="Width" Value="6520"/>
+    <Setter Property="Height" Value="6520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6530">
+    <Setter Property="Width" Value="6530"/>
+    <Setter Property="Height" Value="6530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6540">
+    <Setter Property="Width" Value="6540"/>
+    <Setter Property="Height" Value="6540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6550">
+    <Setter Property="Width" Value="6550"/>
+    <Setter Property="Height" Value="6550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6560">
+    <Setter Property="Width" Value="6560"/>
+    <Setter Property="Height" Value="6560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6570">
+    <Setter Property="Width" Value="6570"/>
+    <Setter Property="Height" Value="6570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6580">
+    <Setter Property="Width" Value="6580"/>
+    <Setter Property="Height" Value="6580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6590">
+    <Setter Property="Width" Value="6590"/>
+    <Setter Property="Height" Value="6590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6600">
+    <Setter Property="Width" Value="6600"/>
+    <Setter Property="Height" Value="6600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6610">
+    <Setter Property="Width" Value="6610"/>
+    <Setter Property="Height" Value="6610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6620">
+    <Setter Property="Width" Value="6620"/>
+    <Setter Property="Height" Value="6620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6630">
+    <Setter Property="Width" Value="6630"/>
+    <Setter Property="Height" Value="6630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6640">
+    <Setter Property="Width" Value="6640"/>
+    <Setter Property="Height" Value="6640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6650">
+    <Setter Property="Width" Value="6650"/>
+    <Setter Property="Height" Value="6650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6660">
+    <Setter Property="Width" Value="6660"/>
+    <Setter Property="Height" Value="6660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6670">
+    <Setter Property="Width" Value="6670"/>
+    <Setter Property="Height" Value="6670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6680">
+    <Setter Property="Width" Value="6680"/>
+    <Setter Property="Height" Value="6680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6690">
+    <Setter Property="Width" Value="6690"/>
+    <Setter Property="Height" Value="6690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6700">
+    <Setter Property="Width" Value="6700"/>
+    <Setter Property="Height" Value="6700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6710">
+    <Setter Property="Width" Value="6710"/>
+    <Setter Property="Height" Value="6710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6720">
+    <Setter Property="Width" Value="6720"/>
+    <Setter Property="Height" Value="6720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6730">
+    <Setter Property="Width" Value="6730"/>
+    <Setter Property="Height" Value="6730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6740">
+    <Setter Property="Width" Value="6740"/>
+    <Setter Property="Height" Value="6740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6750">
+    <Setter Property="Width" Value="6750"/>
+    <Setter Property="Height" Value="6750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6760">
+    <Setter Property="Width" Value="6760"/>
+    <Setter Property="Height" Value="6760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6770">
+    <Setter Property="Width" Value="6770"/>
+    <Setter Property="Height" Value="6770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6780">
+    <Setter Property="Width" Value="6780"/>
+    <Setter Property="Height" Value="6780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6790">
+    <Setter Property="Width" Value="6790"/>
+    <Setter Property="Height" Value="6790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6800">
+    <Setter Property="Width" Value="6800"/>
+    <Setter Property="Height" Value="6800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6810">
+    <Setter Property="Width" Value="6810"/>
+    <Setter Property="Height" Value="6810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6820">
+    <Setter Property="Width" Value="6820"/>
+    <Setter Property="Height" Value="6820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6830">
+    <Setter Property="Width" Value="6830"/>
+    <Setter Property="Height" Value="6830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6840">
+    <Setter Property="Width" Value="6840"/>
+    <Setter Property="Height" Value="6840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6850">
+    <Setter Property="Width" Value="6850"/>
+    <Setter Property="Height" Value="6850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6860">
+    <Setter Property="Width" Value="6860"/>
+    <Setter Property="Height" Value="6860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6870">
+    <Setter Property="Width" Value="6870"/>
+    <Setter Property="Height" Value="6870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6880">
+    <Setter Property="Width" Value="6880"/>
+    <Setter Property="Height" Value="6880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6890">
+    <Setter Property="Width" Value="6890"/>
+    <Setter Property="Height" Value="6890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6900">
+    <Setter Property="Width" Value="6900"/>
+    <Setter Property="Height" Value="6900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6910">
+    <Setter Property="Width" Value="6910"/>
+    <Setter Property="Height" Value="6910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6920">
+    <Setter Property="Width" Value="6920"/>
+    <Setter Property="Height" Value="6920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6930">
+    <Setter Property="Width" Value="6930"/>
+    <Setter Property="Height" Value="6930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6940">
+    <Setter Property="Width" Value="6940"/>
+    <Setter Property="Height" Value="6940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6950">
+    <Setter Property="Width" Value="6950"/>
+    <Setter Property="Height" Value="6950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6960">
+    <Setter Property="Width" Value="6960"/>
+    <Setter Property="Height" Value="6960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6970">
+    <Setter Property="Width" Value="6970"/>
+    <Setter Property="Height" Value="6970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6980">
+    <Setter Property="Width" Value="6980"/>
+    <Setter Property="Height" Value="6980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize6990">
+    <Setter Property="Width" Value="6990"/>
+    <Setter Property="Height" Value="6990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7000">
+    <Setter Property="Width" Value="7000"/>
+    <Setter Property="Height" Value="7000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7010">
+    <Setter Property="Width" Value="7010"/>
+    <Setter Property="Height" Value="7010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7020">
+    <Setter Property="Width" Value="7020"/>
+    <Setter Property="Height" Value="7020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7030">
+    <Setter Property="Width" Value="7030"/>
+    <Setter Property="Height" Value="7030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7040">
+    <Setter Property="Width" Value="7040"/>
+    <Setter Property="Height" Value="7040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7050">
+    <Setter Property="Width" Value="7050"/>
+    <Setter Property="Height" Value="7050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7060">
+    <Setter Property="Width" Value="7060"/>
+    <Setter Property="Height" Value="7060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7070">
+    <Setter Property="Width" Value="7070"/>
+    <Setter Property="Height" Value="7070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7080">
+    <Setter Property="Width" Value="7080"/>
+    <Setter Property="Height" Value="7080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7090">
+    <Setter Property="Width" Value="7090"/>
+    <Setter Property="Height" Value="7090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7100">
+    <Setter Property="Width" Value="7100"/>
+    <Setter Property="Height" Value="7100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7110">
+    <Setter Property="Width" Value="7110"/>
+    <Setter Property="Height" Value="7110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7120">
+    <Setter Property="Width" Value="7120"/>
+    <Setter Property="Height" Value="7120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7130">
+    <Setter Property="Width" Value="7130"/>
+    <Setter Property="Height" Value="7130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7140">
+    <Setter Property="Width" Value="7140"/>
+    <Setter Property="Height" Value="7140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7150">
+    <Setter Property="Width" Value="7150"/>
+    <Setter Property="Height" Value="7150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7160">
+    <Setter Property="Width" Value="7160"/>
+    <Setter Property="Height" Value="7160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7170">
+    <Setter Property="Width" Value="7170"/>
+    <Setter Property="Height" Value="7170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7180">
+    <Setter Property="Width" Value="7180"/>
+    <Setter Property="Height" Value="7180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7190">
+    <Setter Property="Width" Value="7190"/>
+    <Setter Property="Height" Value="7190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7200">
+    <Setter Property="Width" Value="7200"/>
+    <Setter Property="Height" Value="7200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7210">
+    <Setter Property="Width" Value="7210"/>
+    <Setter Property="Height" Value="7210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7220">
+    <Setter Property="Width" Value="7220"/>
+    <Setter Property="Height" Value="7220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7230">
+    <Setter Property="Width" Value="7230"/>
+    <Setter Property="Height" Value="7230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7240">
+    <Setter Property="Width" Value="7240"/>
+    <Setter Property="Height" Value="7240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7250">
+    <Setter Property="Width" Value="7250"/>
+    <Setter Property="Height" Value="7250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7260">
+    <Setter Property="Width" Value="7260"/>
+    <Setter Property="Height" Value="7260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7270">
+    <Setter Property="Width" Value="7270"/>
+    <Setter Property="Height" Value="7270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7280">
+    <Setter Property="Width" Value="7280"/>
+    <Setter Property="Height" Value="7280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7290">
+    <Setter Property="Width" Value="7290"/>
+    <Setter Property="Height" Value="7290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7300">
+    <Setter Property="Width" Value="7300"/>
+    <Setter Property="Height" Value="7300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7310">
+    <Setter Property="Width" Value="7310"/>
+    <Setter Property="Height" Value="7310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7320">
+    <Setter Property="Width" Value="7320"/>
+    <Setter Property="Height" Value="7320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7330">
+    <Setter Property="Width" Value="7330"/>
+    <Setter Property="Height" Value="7330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7340">
+    <Setter Property="Width" Value="7340"/>
+    <Setter Property="Height" Value="7340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7350">
+    <Setter Property="Width" Value="7350"/>
+    <Setter Property="Height" Value="7350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7360">
+    <Setter Property="Width" Value="7360"/>
+    <Setter Property="Height" Value="7360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7370">
+    <Setter Property="Width" Value="7370"/>
+    <Setter Property="Height" Value="7370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7380">
+    <Setter Property="Width" Value="7380"/>
+    <Setter Property="Height" Value="7380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7390">
+    <Setter Property="Width" Value="7390"/>
+    <Setter Property="Height" Value="7390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7400">
+    <Setter Property="Width" Value="7400"/>
+    <Setter Property="Height" Value="7400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7410">
+    <Setter Property="Width" Value="7410"/>
+    <Setter Property="Height" Value="7410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7420">
+    <Setter Property="Width" Value="7420"/>
+    <Setter Property="Height" Value="7420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7430">
+    <Setter Property="Width" Value="7430"/>
+    <Setter Property="Height" Value="7430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7440">
+    <Setter Property="Width" Value="7440"/>
+    <Setter Property="Height" Value="7440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7450">
+    <Setter Property="Width" Value="7450"/>
+    <Setter Property="Height" Value="7450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7460">
+    <Setter Property="Width" Value="7460"/>
+    <Setter Property="Height" Value="7460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7470">
+    <Setter Property="Width" Value="7470"/>
+    <Setter Property="Height" Value="7470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7480">
+    <Setter Property="Width" Value="7480"/>
+    <Setter Property="Height" Value="7480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7490">
+    <Setter Property="Width" Value="7490"/>
+    <Setter Property="Height" Value="7490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7500">
+    <Setter Property="Width" Value="7500"/>
+    <Setter Property="Height" Value="7500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7510">
+    <Setter Property="Width" Value="7510"/>
+    <Setter Property="Height" Value="7510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7520">
+    <Setter Property="Width" Value="7520"/>
+    <Setter Property="Height" Value="7520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7530">
+    <Setter Property="Width" Value="7530"/>
+    <Setter Property="Height" Value="7530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7540">
+    <Setter Property="Width" Value="7540"/>
+    <Setter Property="Height" Value="7540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7550">
+    <Setter Property="Width" Value="7550"/>
+    <Setter Property="Height" Value="7550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7560">
+    <Setter Property="Width" Value="7560"/>
+    <Setter Property="Height" Value="7560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7570">
+    <Setter Property="Width" Value="7570"/>
+    <Setter Property="Height" Value="7570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7580">
+    <Setter Property="Width" Value="7580"/>
+    <Setter Property="Height" Value="7580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7590">
+    <Setter Property="Width" Value="7590"/>
+    <Setter Property="Height" Value="7590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7600">
+    <Setter Property="Width" Value="7600"/>
+    <Setter Property="Height" Value="7600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7610">
+    <Setter Property="Width" Value="7610"/>
+    <Setter Property="Height" Value="7610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7620">
+    <Setter Property="Width" Value="7620"/>
+    <Setter Property="Height" Value="7620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7630">
+    <Setter Property="Width" Value="7630"/>
+    <Setter Property="Height" Value="7630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7640">
+    <Setter Property="Width" Value="7640"/>
+    <Setter Property="Height" Value="7640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7650">
+    <Setter Property="Width" Value="7650"/>
+    <Setter Property="Height" Value="7650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7660">
+    <Setter Property="Width" Value="7660"/>
+    <Setter Property="Height" Value="7660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7670">
+    <Setter Property="Width" Value="7670"/>
+    <Setter Property="Height" Value="7670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7680">
+    <Setter Property="Width" Value="7680"/>
+    <Setter Property="Height" Value="7680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7690">
+    <Setter Property="Width" Value="7690"/>
+    <Setter Property="Height" Value="7690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7700">
+    <Setter Property="Width" Value="7700"/>
+    <Setter Property="Height" Value="7700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7710">
+    <Setter Property="Width" Value="7710"/>
+    <Setter Property="Height" Value="7710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7720">
+    <Setter Property="Width" Value="7720"/>
+    <Setter Property="Height" Value="7720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7730">
+    <Setter Property="Width" Value="7730"/>
+    <Setter Property="Height" Value="7730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7740">
+    <Setter Property="Width" Value="7740"/>
+    <Setter Property="Height" Value="7740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7750">
+    <Setter Property="Width" Value="7750"/>
+    <Setter Property="Height" Value="7750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7760">
+    <Setter Property="Width" Value="7760"/>
+    <Setter Property="Height" Value="7760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7770">
+    <Setter Property="Width" Value="7770"/>
+    <Setter Property="Height" Value="7770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7780">
+    <Setter Property="Width" Value="7780"/>
+    <Setter Property="Height" Value="7780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7790">
+    <Setter Property="Width" Value="7790"/>
+    <Setter Property="Height" Value="7790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7800">
+    <Setter Property="Width" Value="7800"/>
+    <Setter Property="Height" Value="7800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7810">
+    <Setter Property="Width" Value="7810"/>
+    <Setter Property="Height" Value="7810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7820">
+    <Setter Property="Width" Value="7820"/>
+    <Setter Property="Height" Value="7820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7830">
+    <Setter Property="Width" Value="7830"/>
+    <Setter Property="Height" Value="7830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7840">
+    <Setter Property="Width" Value="7840"/>
+    <Setter Property="Height" Value="7840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7850">
+    <Setter Property="Width" Value="7850"/>
+    <Setter Property="Height" Value="7850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7860">
+    <Setter Property="Width" Value="7860"/>
+    <Setter Property="Height" Value="7860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7870">
+    <Setter Property="Width" Value="7870"/>
+    <Setter Property="Height" Value="7870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7880">
+    <Setter Property="Width" Value="7880"/>
+    <Setter Property="Height" Value="7880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7890">
+    <Setter Property="Width" Value="7890"/>
+    <Setter Property="Height" Value="7890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7900">
+    <Setter Property="Width" Value="7900"/>
+    <Setter Property="Height" Value="7900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7910">
+    <Setter Property="Width" Value="7910"/>
+    <Setter Property="Height" Value="7910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7920">
+    <Setter Property="Width" Value="7920"/>
+    <Setter Property="Height" Value="7920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7930">
+    <Setter Property="Width" Value="7930"/>
+    <Setter Property="Height" Value="7930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7940">
+    <Setter Property="Width" Value="7940"/>
+    <Setter Property="Height" Value="7940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7950">
+    <Setter Property="Width" Value="7950"/>
+    <Setter Property="Height" Value="7950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7960">
+    <Setter Property="Width" Value="7960"/>
+    <Setter Property="Height" Value="7960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7970">
+    <Setter Property="Width" Value="7970"/>
+    <Setter Property="Height" Value="7970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7980">
+    <Setter Property="Width" Value="7980"/>
+    <Setter Property="Height" Value="7980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize7990">
+    <Setter Property="Width" Value="7990"/>
+    <Setter Property="Height" Value="7990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8000">
+    <Setter Property="Width" Value="8000"/>
+    <Setter Property="Height" Value="8000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8010">
+    <Setter Property="Width" Value="8010"/>
+    <Setter Property="Height" Value="8010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8020">
+    <Setter Property="Width" Value="8020"/>
+    <Setter Property="Height" Value="8020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8030">
+    <Setter Property="Width" Value="8030"/>
+    <Setter Property="Height" Value="8030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8040">
+    <Setter Property="Width" Value="8040"/>
+    <Setter Property="Height" Value="8040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8050">
+    <Setter Property="Width" Value="8050"/>
+    <Setter Property="Height" Value="8050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8060">
+    <Setter Property="Width" Value="8060"/>
+    <Setter Property="Height" Value="8060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8070">
+    <Setter Property="Width" Value="8070"/>
+    <Setter Property="Height" Value="8070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8080">
+    <Setter Property="Width" Value="8080"/>
+    <Setter Property="Height" Value="8080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8090">
+    <Setter Property="Width" Value="8090"/>
+    <Setter Property="Height" Value="8090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8100">
+    <Setter Property="Width" Value="8100"/>
+    <Setter Property="Height" Value="8100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8110">
+    <Setter Property="Width" Value="8110"/>
+    <Setter Property="Height" Value="8110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8120">
+    <Setter Property="Width" Value="8120"/>
+    <Setter Property="Height" Value="8120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8130">
+    <Setter Property="Width" Value="8130"/>
+    <Setter Property="Height" Value="8130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8140">
+    <Setter Property="Width" Value="8140"/>
+    <Setter Property="Height" Value="8140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8150">
+    <Setter Property="Width" Value="8150"/>
+    <Setter Property="Height" Value="8150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8160">
+    <Setter Property="Width" Value="8160"/>
+    <Setter Property="Height" Value="8160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8170">
+    <Setter Property="Width" Value="8170"/>
+    <Setter Property="Height" Value="8170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8180">
+    <Setter Property="Width" Value="8180"/>
+    <Setter Property="Height" Value="8180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8190">
+    <Setter Property="Width" Value="8190"/>
+    <Setter Property="Height" Value="8190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8200">
+    <Setter Property="Width" Value="8200"/>
+    <Setter Property="Height" Value="8200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8210">
+    <Setter Property="Width" Value="8210"/>
+    <Setter Property="Height" Value="8210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8220">
+    <Setter Property="Width" Value="8220"/>
+    <Setter Property="Height" Value="8220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8230">
+    <Setter Property="Width" Value="8230"/>
+    <Setter Property="Height" Value="8230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8240">
+    <Setter Property="Width" Value="8240"/>
+    <Setter Property="Height" Value="8240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8250">
+    <Setter Property="Width" Value="8250"/>
+    <Setter Property="Height" Value="8250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8260">
+    <Setter Property="Width" Value="8260"/>
+    <Setter Property="Height" Value="8260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8270">
+    <Setter Property="Width" Value="8270"/>
+    <Setter Property="Height" Value="8270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8280">
+    <Setter Property="Width" Value="8280"/>
+    <Setter Property="Height" Value="8280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8290">
+    <Setter Property="Width" Value="8290"/>
+    <Setter Property="Height" Value="8290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8300">
+    <Setter Property="Width" Value="8300"/>
+    <Setter Property="Height" Value="8300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8310">
+    <Setter Property="Width" Value="8310"/>
+    <Setter Property="Height" Value="8310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8320">
+    <Setter Property="Width" Value="8320"/>
+    <Setter Property="Height" Value="8320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8330">
+    <Setter Property="Width" Value="8330"/>
+    <Setter Property="Height" Value="8330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8340">
+    <Setter Property="Width" Value="8340"/>
+    <Setter Property="Height" Value="8340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8350">
+    <Setter Property="Width" Value="8350"/>
+    <Setter Property="Height" Value="8350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8360">
+    <Setter Property="Width" Value="8360"/>
+    <Setter Property="Height" Value="8360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8370">
+    <Setter Property="Width" Value="8370"/>
+    <Setter Property="Height" Value="8370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8380">
+    <Setter Property="Width" Value="8380"/>
+    <Setter Property="Height" Value="8380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8390">
+    <Setter Property="Width" Value="8390"/>
+    <Setter Property="Height" Value="8390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8400">
+    <Setter Property="Width" Value="8400"/>
+    <Setter Property="Height" Value="8400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8410">
+    <Setter Property="Width" Value="8410"/>
+    <Setter Property="Height" Value="8410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8420">
+    <Setter Property="Width" Value="8420"/>
+    <Setter Property="Height" Value="8420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8430">
+    <Setter Property="Width" Value="8430"/>
+    <Setter Property="Height" Value="8430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8440">
+    <Setter Property="Width" Value="8440"/>
+    <Setter Property="Height" Value="8440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8450">
+    <Setter Property="Width" Value="8450"/>
+    <Setter Property="Height" Value="8450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8460">
+    <Setter Property="Width" Value="8460"/>
+    <Setter Property="Height" Value="8460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8470">
+    <Setter Property="Width" Value="8470"/>
+    <Setter Property="Height" Value="8470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8480">
+    <Setter Property="Width" Value="8480"/>
+    <Setter Property="Height" Value="8480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8490">
+    <Setter Property="Width" Value="8490"/>
+    <Setter Property="Height" Value="8490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8500">
+    <Setter Property="Width" Value="8500"/>
+    <Setter Property="Height" Value="8500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8510">
+    <Setter Property="Width" Value="8510"/>
+    <Setter Property="Height" Value="8510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8520">
+    <Setter Property="Width" Value="8520"/>
+    <Setter Property="Height" Value="8520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8530">
+    <Setter Property="Width" Value="8530"/>
+    <Setter Property="Height" Value="8530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8540">
+    <Setter Property="Width" Value="8540"/>
+    <Setter Property="Height" Value="8540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8550">
+    <Setter Property="Width" Value="8550"/>
+    <Setter Property="Height" Value="8550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8560">
+    <Setter Property="Width" Value="8560"/>
+    <Setter Property="Height" Value="8560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8570">
+    <Setter Property="Width" Value="8570"/>
+    <Setter Property="Height" Value="8570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8580">
+    <Setter Property="Width" Value="8580"/>
+    <Setter Property="Height" Value="8580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8590">
+    <Setter Property="Width" Value="8590"/>
+    <Setter Property="Height" Value="8590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8600">
+    <Setter Property="Width" Value="8600"/>
+    <Setter Property="Height" Value="8600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8610">
+    <Setter Property="Width" Value="8610"/>
+    <Setter Property="Height" Value="8610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8620">
+    <Setter Property="Width" Value="8620"/>
+    <Setter Property="Height" Value="8620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8630">
+    <Setter Property="Width" Value="8630"/>
+    <Setter Property="Height" Value="8630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8640">
+    <Setter Property="Width" Value="8640"/>
+    <Setter Property="Height" Value="8640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8650">
+    <Setter Property="Width" Value="8650"/>
+    <Setter Property="Height" Value="8650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8660">
+    <Setter Property="Width" Value="8660"/>
+    <Setter Property="Height" Value="8660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8670">
+    <Setter Property="Width" Value="8670"/>
+    <Setter Property="Height" Value="8670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8680">
+    <Setter Property="Width" Value="8680"/>
+    <Setter Property="Height" Value="8680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8690">
+    <Setter Property="Width" Value="8690"/>
+    <Setter Property="Height" Value="8690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8700">
+    <Setter Property="Width" Value="8700"/>
+    <Setter Property="Height" Value="8700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8710">
+    <Setter Property="Width" Value="8710"/>
+    <Setter Property="Height" Value="8710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8720">
+    <Setter Property="Width" Value="8720"/>
+    <Setter Property="Height" Value="8720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8730">
+    <Setter Property="Width" Value="8730"/>
+    <Setter Property="Height" Value="8730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8740">
+    <Setter Property="Width" Value="8740"/>
+    <Setter Property="Height" Value="8740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8750">
+    <Setter Property="Width" Value="8750"/>
+    <Setter Property="Height" Value="8750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8760">
+    <Setter Property="Width" Value="8760"/>
+    <Setter Property="Height" Value="8760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8770">
+    <Setter Property="Width" Value="8770"/>
+    <Setter Property="Height" Value="8770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8780">
+    <Setter Property="Width" Value="8780"/>
+    <Setter Property="Height" Value="8780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8790">
+    <Setter Property="Width" Value="8790"/>
+    <Setter Property="Height" Value="8790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8800">
+    <Setter Property="Width" Value="8800"/>
+    <Setter Property="Height" Value="8800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8810">
+    <Setter Property="Width" Value="8810"/>
+    <Setter Property="Height" Value="8810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8820">
+    <Setter Property="Width" Value="8820"/>
+    <Setter Property="Height" Value="8820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8830">
+    <Setter Property="Width" Value="8830"/>
+    <Setter Property="Height" Value="8830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8840">
+    <Setter Property="Width" Value="8840"/>
+    <Setter Property="Height" Value="8840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8850">
+    <Setter Property="Width" Value="8850"/>
+    <Setter Property="Height" Value="8850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8860">
+    <Setter Property="Width" Value="8860"/>
+    <Setter Property="Height" Value="8860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8870">
+    <Setter Property="Width" Value="8870"/>
+    <Setter Property="Height" Value="8870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8880">
+    <Setter Property="Width" Value="8880"/>
+    <Setter Property="Height" Value="8880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8890">
+    <Setter Property="Width" Value="8890"/>
+    <Setter Property="Height" Value="8890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8900">
+    <Setter Property="Width" Value="8900"/>
+    <Setter Property="Height" Value="8900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8910">
+    <Setter Property="Width" Value="8910"/>
+    <Setter Property="Height" Value="8910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8920">
+    <Setter Property="Width" Value="8920"/>
+    <Setter Property="Height" Value="8920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8930">
+    <Setter Property="Width" Value="8930"/>
+    <Setter Property="Height" Value="8930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8940">
+    <Setter Property="Width" Value="8940"/>
+    <Setter Property="Height" Value="8940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8950">
+    <Setter Property="Width" Value="8950"/>
+    <Setter Property="Height" Value="8950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8960">
+    <Setter Property="Width" Value="8960"/>
+    <Setter Property="Height" Value="8960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8970">
+    <Setter Property="Width" Value="8970"/>
+    <Setter Property="Height" Value="8970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8980">
+    <Setter Property="Width" Value="8980"/>
+    <Setter Property="Height" Value="8980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize8990">
+    <Setter Property="Width" Value="8990"/>
+    <Setter Property="Height" Value="8990"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9000">
+    <Setter Property="Width" Value="9000"/>
+    <Setter Property="Height" Value="9000"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9010">
+    <Setter Property="Width" Value="9010"/>
+    <Setter Property="Height" Value="9010"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9020">
+    <Setter Property="Width" Value="9020"/>
+    <Setter Property="Height" Value="9020"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9030">
+    <Setter Property="Width" Value="9030"/>
+    <Setter Property="Height" Value="9030"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9040">
+    <Setter Property="Width" Value="9040"/>
+    <Setter Property="Height" Value="9040"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9050">
+    <Setter Property="Width" Value="9050"/>
+    <Setter Property="Height" Value="9050"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9060">
+    <Setter Property="Width" Value="9060"/>
+    <Setter Property="Height" Value="9060"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9070">
+    <Setter Property="Width" Value="9070"/>
+    <Setter Property="Height" Value="9070"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9080">
+    <Setter Property="Width" Value="9080"/>
+    <Setter Property="Height" Value="9080"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9090">
+    <Setter Property="Width" Value="9090"/>
+    <Setter Property="Height" Value="9090"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9100">
+    <Setter Property="Width" Value="9100"/>
+    <Setter Property="Height" Value="9100"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9110">
+    <Setter Property="Width" Value="9110"/>
+    <Setter Property="Height" Value="9110"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9120">
+    <Setter Property="Width" Value="9120"/>
+    <Setter Property="Height" Value="9120"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9130">
+    <Setter Property="Width" Value="9130"/>
+    <Setter Property="Height" Value="9130"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9140">
+    <Setter Property="Width" Value="9140"/>
+    <Setter Property="Height" Value="9140"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9150">
+    <Setter Property="Width" Value="9150"/>
+    <Setter Property="Height" Value="9150"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9160">
+    <Setter Property="Width" Value="9160"/>
+    <Setter Property="Height" Value="9160"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9170">
+    <Setter Property="Width" Value="9170"/>
+    <Setter Property="Height" Value="9170"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9180">
+    <Setter Property="Width" Value="9180"/>
+    <Setter Property="Height" Value="9180"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9190">
+    <Setter Property="Width" Value="9190"/>
+    <Setter Property="Height" Value="9190"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9200">
+    <Setter Property="Width" Value="9200"/>
+    <Setter Property="Height" Value="9200"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9210">
+    <Setter Property="Width" Value="9210"/>
+    <Setter Property="Height" Value="9210"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9220">
+    <Setter Property="Width" Value="9220"/>
+    <Setter Property="Height" Value="9220"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9230">
+    <Setter Property="Width" Value="9230"/>
+    <Setter Property="Height" Value="9230"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9240">
+    <Setter Property="Width" Value="9240"/>
+    <Setter Property="Height" Value="9240"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9250">
+    <Setter Property="Width" Value="9250"/>
+    <Setter Property="Height" Value="9250"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9260">
+    <Setter Property="Width" Value="9260"/>
+    <Setter Property="Height" Value="9260"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9270">
+    <Setter Property="Width" Value="9270"/>
+    <Setter Property="Height" Value="9270"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9280">
+    <Setter Property="Width" Value="9280"/>
+    <Setter Property="Height" Value="9280"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9290">
+    <Setter Property="Width" Value="9290"/>
+    <Setter Property="Height" Value="9290"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9300">
+    <Setter Property="Width" Value="9300"/>
+    <Setter Property="Height" Value="9300"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9310">
+    <Setter Property="Width" Value="9310"/>
+    <Setter Property="Height" Value="9310"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9320">
+    <Setter Property="Width" Value="9320"/>
+    <Setter Property="Height" Value="9320"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9330">
+    <Setter Property="Width" Value="9330"/>
+    <Setter Property="Height" Value="9330"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9340">
+    <Setter Property="Width" Value="9340"/>
+    <Setter Property="Height" Value="9340"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9350">
+    <Setter Property="Width" Value="9350"/>
+    <Setter Property="Height" Value="9350"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9360">
+    <Setter Property="Width" Value="9360"/>
+    <Setter Property="Height" Value="9360"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9370">
+    <Setter Property="Width" Value="9370"/>
+    <Setter Property="Height" Value="9370"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9380">
+    <Setter Property="Width" Value="9380"/>
+    <Setter Property="Height" Value="9380"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9390">
+    <Setter Property="Width" Value="9390"/>
+    <Setter Property="Height" Value="9390"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9400">
+    <Setter Property="Width" Value="9400"/>
+    <Setter Property="Height" Value="9400"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9410">
+    <Setter Property="Width" Value="9410"/>
+    <Setter Property="Height" Value="9410"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9420">
+    <Setter Property="Width" Value="9420"/>
+    <Setter Property="Height" Value="9420"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9430">
+    <Setter Property="Width" Value="9430"/>
+    <Setter Property="Height" Value="9430"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9440">
+    <Setter Property="Width" Value="9440"/>
+    <Setter Property="Height" Value="9440"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9450">
+    <Setter Property="Width" Value="9450"/>
+    <Setter Property="Height" Value="9450"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9460">
+    <Setter Property="Width" Value="9460"/>
+    <Setter Property="Height" Value="9460"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9470">
+    <Setter Property="Width" Value="9470"/>
+    <Setter Property="Height" Value="9470"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9480">
+    <Setter Property="Width" Value="9480"/>
+    <Setter Property="Height" Value="9480"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9490">
+    <Setter Property="Width" Value="9490"/>
+    <Setter Property="Height" Value="9490"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9500">
+    <Setter Property="Width" Value="9500"/>
+    <Setter Property="Height" Value="9500"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9510">
+    <Setter Property="Width" Value="9510"/>
+    <Setter Property="Height" Value="9510"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9520">
+    <Setter Property="Width" Value="9520"/>
+    <Setter Property="Height" Value="9520"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9530">
+    <Setter Property="Width" Value="9530"/>
+    <Setter Property="Height" Value="9530"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9540">
+    <Setter Property="Width" Value="9540"/>
+    <Setter Property="Height" Value="9540"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9550">
+    <Setter Property="Width" Value="9550"/>
+    <Setter Property="Height" Value="9550"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9560">
+    <Setter Property="Width" Value="9560"/>
+    <Setter Property="Height" Value="9560"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9570">
+    <Setter Property="Width" Value="9570"/>
+    <Setter Property="Height" Value="9570"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9580">
+    <Setter Property="Width" Value="9580"/>
+    <Setter Property="Height" Value="9580"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9590">
+    <Setter Property="Width" Value="9590"/>
+    <Setter Property="Height" Value="9590"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9600">
+    <Setter Property="Width" Value="9600"/>
+    <Setter Property="Height" Value="9600"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9610">
+    <Setter Property="Width" Value="9610"/>
+    <Setter Property="Height" Value="9610"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9620">
+    <Setter Property="Width" Value="9620"/>
+    <Setter Property="Height" Value="9620"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9630">
+    <Setter Property="Width" Value="9630"/>
+    <Setter Property="Height" Value="9630"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9640">
+    <Setter Property="Width" Value="9640"/>
+    <Setter Property="Height" Value="9640"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9650">
+    <Setter Property="Width" Value="9650"/>
+    <Setter Property="Height" Value="9650"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9660">
+    <Setter Property="Width" Value="9660"/>
+    <Setter Property="Height" Value="9660"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9670">
+    <Setter Property="Width" Value="9670"/>
+    <Setter Property="Height" Value="9670"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9680">
+    <Setter Property="Width" Value="9680"/>
+    <Setter Property="Height" Value="9680"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9690">
+    <Setter Property="Width" Value="9690"/>
+    <Setter Property="Height" Value="9690"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9700">
+    <Setter Property="Width" Value="9700"/>
+    <Setter Property="Height" Value="9700"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9710">
+    <Setter Property="Width" Value="9710"/>
+    <Setter Property="Height" Value="9710"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9720">
+    <Setter Property="Width" Value="9720"/>
+    <Setter Property="Height" Value="9720"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9730">
+    <Setter Property="Width" Value="9730"/>
+    <Setter Property="Height" Value="9730"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9740">
+    <Setter Property="Width" Value="9740"/>
+    <Setter Property="Height" Value="9740"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9750">
+    <Setter Property="Width" Value="9750"/>
+    <Setter Property="Height" Value="9750"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9760">
+    <Setter Property="Width" Value="9760"/>
+    <Setter Property="Height" Value="9760"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9770">
+    <Setter Property="Width" Value="9770"/>
+    <Setter Property="Height" Value="9770"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9780">
+    <Setter Property="Width" Value="9780"/>
+    <Setter Property="Height" Value="9780"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9790">
+    <Setter Property="Width" Value="9790"/>
+    <Setter Property="Height" Value="9790"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9800">
+    <Setter Property="Width" Value="9800"/>
+    <Setter Property="Height" Value="9800"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9810">
+    <Setter Property="Width" Value="9810"/>
+    <Setter Property="Height" Value="9810"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9820">
+    <Setter Property="Width" Value="9820"/>
+    <Setter Property="Height" Value="9820"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9830">
+    <Setter Property="Width" Value="9830"/>
+    <Setter Property="Height" Value="9830"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9840">
+    <Setter Property="Width" Value="9840"/>
+    <Setter Property="Height" Value="9840"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9850">
+    <Setter Property="Width" Value="9850"/>
+    <Setter Property="Height" Value="9850"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9860">
+    <Setter Property="Width" Value="9860"/>
+    <Setter Property="Height" Value="9860"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9870">
+    <Setter Property="Width" Value="9870"/>
+    <Setter Property="Height" Value="9870"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9880">
+    <Setter Property="Width" Value="9880"/>
+    <Setter Property="Height" Value="9880"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9890">
+    <Setter Property="Width" Value="9890"/>
+    <Setter Property="Height" Value="9890"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9900">
+    <Setter Property="Width" Value="9900"/>
+    <Setter Property="Height" Value="9900"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9910">
+    <Setter Property="Width" Value="9910"/>
+    <Setter Property="Height" Value="9910"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9920">
+    <Setter Property="Width" Value="9920"/>
+    <Setter Property="Height" Value="9920"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9930">
+    <Setter Property="Width" Value="9930"/>
+    <Setter Property="Height" Value="9930"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9940">
+    <Setter Property="Width" Value="9940"/>
+    <Setter Property="Height" Value="9940"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9950">
+    <Setter Property="Width" Value="9950"/>
+    <Setter Property="Height" Value="9950"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9960">
+    <Setter Property="Width" Value="9960"/>
+    <Setter Property="Height" Value="9960"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9970">
+    <Setter Property="Width" Value="9970"/>
+    <Setter Property="Height" Value="9970"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9980">
+    <Setter Property="Width" Value="9980"/>
+    <Setter Property="Height" Value="9980"/>
+  </Style>
+
+  <Style Selector="Button.ButtonSize9990">
+    <Setter Property="Width" Value="9990"/>
+    <Setter Property="Height" Value="9990"/>
+  </Style>-->
+</Styles>

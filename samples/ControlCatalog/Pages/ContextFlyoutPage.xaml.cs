@@ -5,6 +5,7 @@ using ControlCatalog.ViewModels;
 using Avalonia.Interactivity;
 using System;
 using System.ComponentModel;
+using System.Diagnostics;
 
 namespace ControlCatalog.Pages
 {
@@ -87,6 +88,20 @@ namespace ControlCatalog.Pages
         private void InitializeComponent()
         {
             AvaloniaXamlLoader.Load(this);
+        }
+
+        private DateTime begin;
+
+        private void Flyout_Opening(object sender, EventArgs e)
+        {
+            begin = DateTime.Now;
+        }
+
+        private void Flyout_Opened(object sender, EventArgs e)
+        {
+            var end = DateTime.Now;
+            var diff = end - begin;
+            Debug.WriteLine($"{begin} - {end} = {diff}");
         }
     }
 }
